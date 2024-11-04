@@ -37,15 +37,15 @@
 
 在例（4）和（5）中，“war threats”和“objections”都是泛指，虽然有复数形式，但不强调其具体可数性。例如：
 
-* He likes reading **books**.（books泛指“书”）
-* **Horses** are useful **animals**.（horses和animals泛指“马”和“动物”）
+* (22) He likes reading books.（books泛指“书”）
+* (23) Horses are useful animals.（horses和animals泛指“马”和“动物”）
 
 这种泛指的复数用法不应被误解为“许多”或“一些”。
 
 **三、特指活动的复数名词**
 
-在 “This event was an important part of **the celebrations**.” 中，“the celebrations”特指一系列多种具体活动，虽然有复数形式，但不强调其具体可数性。这种用法在英语中很常见，例如：
+在例（6）中，“the celebrations”特指一系列多种具体活动，虽然有复数形式，但不强调其具体可数性。这种用法在英语中很常见，例如：
 
-* I enjoyed my travels in Europe.（travels指多次具体的旅行）
+* I enjoyed my **travels** in Europe.（travels指多次具体的旅行）
 
 这些实例展示了英语中名词复数用法的多样性和细微之处，理解其用法需要在具体语境中仔细体会。
