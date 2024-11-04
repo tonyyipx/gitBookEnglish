@@ -25,26 +25,26 @@
 * **复合词**：复数名词常见于结构松散的复合词中，如：
   * (15) the cigars bill（雪茄税案）
   * (16) the equal terms policy（平等待遇政策）
-  * (17) the grasslands deal（草原交易）
-  * (18) some critical materials shortage（一些关键材料短缺）
+  * the grasslands deal（草原交易）
+  * some critical materials shortage（一些关键材料短缺）
 * **单数与复数皆可**：有些复合词的用法较灵活，例如：
-  * (19) student(s) group（学生团体）
+  * student(s) group（学生团体）
 * **地域差异**：英美英语有时在用法上有所不同，如：
-  * (20) a brains trust（常见于英国）
-  * (21) a brain trust（常见于美国）
+  * a brains trust（常见于英国）
+  * a brain trust（常见于美国）
 
 **二、泛指复数名词**
 
 在例（4）和（5）中，“war threats”和“objections”都是泛指，虽然有复数形式，但不强调其具体可数性。例如：
 
-* (22) He likes reading books.（books泛指“书”）
-* (23) Horses are useful animals.（horses和animals泛指“马”和“动物”）
+* He likes reading **books**.（books泛指“书”）
+* **Horses** are useful **animals**.（horses和animals泛指“马”和“动物”）
 
 这种泛指的复数用法不应被误解为“许多”或“一些”。
 
 **三、特指活动的复数名词**
 
-在例（6）中，“the celebrations”特指一系列多种具体活动，虽然有复数形式，但不强调其具体可数性。这种用法在英语中很常见，例如：
+在“This event was an important part of **the celebrations**.”中，“the celebrations”特指一系列多种具体活动，虽然有复数形式，但不强调其具体可数性。这种用法在英语中很常见，例如：
 
 * I enjoyed my **travels** in Europe.（travels指多次具体的旅行）
 
