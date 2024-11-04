@@ -26,13 +26,12 @@
   * [1801-1900](ci-hui/2000-ge-zui-chang-yong-ying-yu-dan-ci/1801-1900.md)
   * [1901-2000](ci-hui/2000-ge-zui-chang-yong-ying-yu-dan-ci/1901-2000.md)
 
-## 语法
+## 语法 <a href="#grammar" id="grammar"></a>
 
-* [<薄冰英语语法>笔记](yu-fa/bao-bing-ying-yu-yu-fa-bi-ji/README.md)
-  * [名词](yu-fa/bao-bing-ying-yu-yu-fa-bi-ji/ming-ci/README.md)
-    * [★名词的“单、复数”](yu-fa/bao-bing-ying-yu-yu-fa-bi-ji/ming-ci/ming-ci-de-dan-fu-shu.md)
-    * [★名词的可数性](yu-fa/bao-bing-ying-yu-yu-fa-bi-ji/ming-ci/ming-ci-de-ke-shu-xing.md)
-    * [★名词单、复数的用法问题](yu-fa/bao-bing-ying-yu-yu-fa-bi-ji/ming-ci/ming-ci-dan-fu-shu-de-yong-fa-wen-ti.md)
-    * [★作定语的名词的单、复形问题](yu-fa/bao-bing-ying-yu-yu-fa-bi-ji/ming-ci/zuo-ding-yu-de-ming-ci-de-dan-fu-xing-wen-ti.md)
-  * [冠词综述](yu-fa/bao-bing-ying-yu-yu-fa-bi-ji/guan-ci-zong-shu.md)
-  * [零冠词](yu-fa/bao-bing-ying-yu-yu-fa-bi-ji/ling-guan-ci.md)
+* [noun](grammar/noun/README.md)
+  * [★名词的“单、复数”](grammar/noun/ming-ci-de-dan-fu-shu.md)
+  * [★名词的可数性](grammar/noun/ming-ci-de-ke-shu-xing.md)
+  * [★名词单、复数的用法问题](grammar/noun/ming-ci-dan-fu-shu-de-yong-fa-wen-ti.md)
+  * [★作定语的名词的单、复形问题](grammar/noun/zuo-ding-yu-de-ming-ci-de-dan-fu-xing-wen-ti.md)
+* [冠词综述](grammar/guan-ci-zong-shu.md)
+* [零冠词](grammar/ling-guan-ci.md)
