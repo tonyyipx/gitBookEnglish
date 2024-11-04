@@ -29,9 +29,9 @@
 ## 语法 <a href="#grammar" id="grammar"></a>
 
 * [名词](grammar/noun/README.md)
-  * [★名词的“单、复数”](grammar/noun/singular-and-plural-nouns.md)
-  * [★名词的可数性](grammar/noun/countability-of-nouns.md)
-  * [★名词单、复数的用法问题](grammar/noun/problems-with-the-use-of-singular-and-plural-nouns.md)
-  * [★作定语的名词的单、复形问题](grammar/noun/the-singular-and-plural-forms-of-nouns-used-as-attributes.md)
+  * [名词的“单、复数”](grammar/noun/singular-and-plural-nouns.md)
+  * [名词的可数性](grammar/noun/countability-of-nouns.md)
+  * [名词单、复数的用法问题](grammar/noun/problems-with-the-use-of-singular-and-plural-nouns.md)
+  * [作定语的名词的单、复形问题](grammar/noun/the-singular-and-plural-forms-of-nouns-used-as-attributes.md)
 * [冠词综述](grammar/guan-ci-zong-shu.md)
 * [零冠词](grammar/ling-guan-ci.md)
