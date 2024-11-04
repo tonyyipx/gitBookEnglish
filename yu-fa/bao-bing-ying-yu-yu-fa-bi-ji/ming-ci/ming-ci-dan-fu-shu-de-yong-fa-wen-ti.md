@@ -1,62 +1,51 @@
 # ★名词单、复数的用法问题
 
-**问题概述：** 英语中名词的单、复数用法常令学习者困惑，尤其是某些名词为何选用复数形式而非单数形式。以下内容探讨了几类情境及规则。
+#### 名词单、复数用法笔记
 
-***
+在英语学习中，名词的单、复数使用对中国学生来说常常是一个难点。尤其是在何时使用复数形式而非单数形式，存在一定的复杂性和不确定性。以下从三方面来探讨这个问题：
 
-**一、复数名词作定语的问题**
+**一、复数名词用作定语的情况**
 
-1. **无严格语法规则**：虽然在英语中，单数名词作为定语更为常见，但近年来复数名词作定语的使用逐渐增多。有时使用复数是必要的，如：
-   * _an alms-house_（济贫院）
-   * _a goods train_（货运列车）
-   * _arms race_（军备竞赛）
-   * _a savings-bank_（储蓄银行）
-2. **明确与避免歧义**：复数用法有助于传达具体含义，避免歧义。如：
-   * _Admissions Department_（招生部门）
-   * _suggestions box_（建议箱）
-   * _an awards ceremony_（颁奖典礼）
-3.  **正式英语中的常见现象**：在正式表达中，复数名词作定语较普遍，例如：
+在语法上，名词复数用作定语并没有固定规则，需要个别记忆。虽然单数名词作定语较为普遍，但现代英语中逐渐有使用复数名词作定语的趋势。以下是一些用复数名词作定语的情况：
 
-    * _the Contagious Diseases Act_（传染病法案）
-    * _the Diplomatic Services Bureau_（外交服务局）
-    * _the Highways Committee_（公路委员会）
-    * _the Samples Depot_（样品库）
+* **必要使用复数名词**：有时复数形式是必需的，如：
+  * (7) an alms-house（济贫院）
+  * (8) a goods train（货运列车）
+  * (9) arms race（军备竞赛）
+  * (10) a savings-bank（储蓄银行）
+* **避免歧义**：某些场合使用复数名词可更具体或避免歧义，如：
+  * (1) Admissions Department（招生部）
+  * (2) suggestions box（意见箱）
+  * (3) an awards ceremony（颁奖典礼）
+* **正式用语**：在正式英语中，经常使用复数名词作定语，如：
+  * (11) the Contagious Diseases Act（传染病法案）
+  * (12) the Diplomatic Services Bureau（外交服务局）
+  * (13) the Highways Committee（公路委员会）
+  * (14) the Samples Depot（样品仓库，但必须说a sample room）
+* **复合词**：复数名词常见于结构松散的复合词中，如：
+  * (15) the cigars bill（雪茄税案）
+  * (16) the equal terms policy（平等待遇政策）
+  * (17) the grasslands deal（草原交易）
+  * (18) some critical materials shortage（一些关键材料短缺）
+* **单数与复数皆可**：有些复合词的用法较灵活，例如：
+  * (19) student(s) group（学生团体）
+* **地域差异**：英美英语有时在用法上有所不同，如：
+  * (20) a brains trust（常见于英国）
+  * (21) a brain trust（常见于美国）
 
-    但需要注意，有时用单数形式更为适合，如 _a sample room_（样品室）。
-4. **结构松散的复合词**：复数定语在一些松散结构的复合词中也很常见，如：
-   * _the cigars bill_（雪茄法案）
-   * _the equal terms policy_（平等待遇政策）
-   * _the grasslands deal_（草地协议）
-   * _some critical materials shortage_（某些关键材料短缺）
-5. **单复数皆可**：某些复合词单复数均可，如：
-   * _student(s) group_（学生团体）
-6. **地区差异**：英美用法有时不同：
-   * _a brains trust_（英式用法）
-   * _a brain trust_（美式用法）
+**二、泛指复数名词**
 
-***
+在例（4）和（5）中，“war threats”和“objections”都是泛指，虽然有复数形式，但不强调其具体可数性。例如：
 
-**二、泛指与复数**
+* He likes reading **books**.（books泛指“书”）
+* **Horses** are useful **animals**.（horses和animals泛指“马”和“动物”）
 
-1.  **泛指而非可数性**：复数形式有时表达泛指，而不强调可数性。如：
+这种泛指的复数用法不应被误解为“许多”或“一些”。
 
-    * _They will never be intimidated by war threats._（他们永远不会被战争威胁吓倒）
-    * _He has no objections to the plan._（他对该计划没有异议）
+**三、特指活动的复数名词**
 
-    这类复数名词表达“泛指”时，不应翻译成“许多”或“一些”。
-2. **其他例子**：
-   * _He likes reading books._（他喜欢读书）中，_books_ 泛指书籍。
-   * _Horses are useful animals._（马是有用的动物）中，_horses_ 和 _animals_ 泛指“马”和“动物”。
+在 “This event was an important part of **the celebrations**.” 中，“the celebrations”特指一系列多种具体活动，虽然有复数形式，但不强调其具体可数性。这种用法在英语中很常见，例如：
 
-***
+* I enjoyed my travels in Europe.（travels指多次具体的旅行）
 
-**三、具体活动与复数**
-
-1. **复数专指具体活动**：复数有时用于表示一系列具体活动，不强调其可数性。如：
-   * _This event was an important part of the celebrations._（这项活动是庆祝活动的重要部分）
-2. **其他例子**：
-   * _I enjoyed my travels in Europe._（我喜欢我在欧洲的旅行）中的 _travels_ 强调了各种具体的旅行活动。
-
-***
-
-**总结**：英语中名词的单、复数用法在不同情境下有特定的倾向与规则。使用复数名词作定语有时可明确意义或符合正式语言的表达方式，而复数用作泛指或专指具体活动也是常见现象。理解这些用法需通过实际学习和记忆积累经验。
+这些实例展示了英语中名词复数用法的多样性和细微之处，理解其用法需要在具体语境中仔细体会。
