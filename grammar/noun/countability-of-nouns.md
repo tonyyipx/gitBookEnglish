@@ -25,8 +25,8 @@
 **学习者需注意的几点**
 
 1. _many_ 和 _these_ 通常用于修饰可数名词，但也可修饰**少数不可数名词**，如 _many goods_（许多货物） 和 _these vermin_（这些害虫）。
-2. 群体名词如 _cattle_ 可与整数连用：_twenty cattle_，_three thousand cattle_，但应说 _two head of cattle_ 而非 _two cattle_。
-3. 强调语气时，_a thousand thanks_ 中的 _thanks_ 并不因此变为可数。
+2. 群体名词如 _cattle_ 可与基数词连用，但**只限于十、百、千等整数**，：_twenty cattle_，_three thousand cattle_，但应说 _two head of cattle_ 而非 _two cattle_。
+3. “a thousand thanks”或“a thousand pities”中的数词**表示强调**，非可数性。
 4. 英语与汉语在名词可数性上存在差异。例如，_duty_（职责）、_sleep_（睡眠）、_jelly_（果冻）在英语中可数，但汉语中通常不可数；反之，_soap_（肥皂）、_toast_（烤面包）、_equipment_（设备）在英语中不可数，但在汉语中可数。
 
 **总结**
