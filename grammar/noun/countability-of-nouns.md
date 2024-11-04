@@ -15,7 +15,7 @@
 1. _He is on a horse._ 和 _He takes pride in his horses._ 中的 _horse_ 明显是可数的。
 2. _The horse is a useful animal._ 和 _Horses are useful animals._ 中，_horse_ 和 _horses_ 虽然有单数或复数概念，但表达的是“马类”或“各种马”的抽象含义，此时不可数。
 
-## ★**常见问题解析**
+### ★**常见问题解析**
 
 1. **词典的划分**：一些学习词典将名词标为“可数”或“不可数”，这是基于词法视角。然而，许多名词如 _horse_ 可以同时用作可数与不可数，这取决于具体语境。
 2. **单念与可数性**：单数形式并不总表示可数。例：_The horse_ 有单数概念，但表马类，不可数。
