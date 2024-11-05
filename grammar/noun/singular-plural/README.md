@@ -1,13 +1,13 @@
 # 1. 单、复数形式与用法
 
-## 名词的“单、复数”
+## ★名词的“单、复数”
 
-### ★**英语与汉语的“单、复数”概念差异**
+### ◇**英语与汉语的“单、复数”概念差异**
 
 * 英语名词不同于汉语名词，具有“单、复数”形式，而汉语似乎没有这一特征。
 * 常见的问题在于对“单、复数”概念和形式的混淆。应明确区分名词的“数形”（形式）与“数念”（概念）。
 
-### ★**什么是数形？**
+### ◇**什么是数形？**
 
 * **定义**：数形指名词的形式变化，分为单形和复形。
 * **例子**：
@@ -25,7 +25,7 @@
 | billiard（台球戏，作定语） | billiards  |
 | crossroad（交叉路）    | crossroads |
 
-### ★**什么是数念？**
+### ◇**什么是数念？**
 
 * **定义**：数念指名词表达的数量概念或意义，分为单念、复念与零念。
 * **例子**：
@@ -51,14 +51,14 @@
 |                                 | <p>day and night<br>（日日夜夜）</p>    | <p>oats<br>（燕麦）</p>        |
 |                                 |                                   | <p>measles<br>（麻疹）</p>     |
 
-### ★**数形与数念的区别及例证**
+### ◇**数形与数念的区别及例证**
 
 * 数形与数念是不同的范畴，数形指形式，数念指意义。例如：
   * 单形表复念：**man** 表示“人类整体”（复念）。
   * 复形表单念：**barracks** 表示“营房”（单念）。
   * 复形表零念：**billiards** 表示“台球”（零念）。
 
-### ★**句法角度的应用**
+### ◇**句法角度的应用**
 
 * 单形名词表复念：
   * _The whole **house** laughed_（剧场观众笑了）。
@@ -83,7 +83,7 @@
 | <p>The <strong>barracks</strong> is quite new. <br>这营房相当新呢。</p>                           | 复形名词barracks表单念           |
 | <p>The steps form a landing <strong>stairs</strong> from the river. <br>那些踏级构成了上岸的台阶。</p> | 复形名词stairs表单念             |
 
-### ★**结论**
+### ◇**结论**
 
 * 名词的数形与数念应区别看待，不能笼统地称之为“单、复数”。
 * 在教学或辞书中应明确“单、复形”与“单、复念”的使用，避免混淆。
@@ -92,11 +92,11 @@
 
 
 
-## 有关名词单、复数的用法问题
+## ★有关名词单、复数的用法问题
 
 在英语学习中，名词的单、复数使用对中国学生来说常常是一个难点。尤其是在何时使用复数形式而非单数形式，存在一定的复杂性和不确定性。以下从三方面来探讨这个问题：
 
-### ★**复数名词用作定语的情况**
+### ◇**复数名词用作定语的情况**
 
 在语法上，名词复数用作定语并没有固定规则，需要个别记忆。虽然单数名词作定语较为普遍，但现代英语中逐渐有使用复数名词作定语的趋势。以下是一些用复数名词作定语的情况：
 
@@ -125,7 +125,7 @@
   * a brains trust（常见于英国）
   * a brain trust（常见于美国）
 
-### ★**泛指复数名词**
+### ◇**泛指复数名词**
 
 在“They will never be intimidated by **war threats**.”和“He has no **objections** to the plan.”中，“war threats”和“objections”都是泛指，虽然有复数形式，但不强调其具体可数性。例如：
 
@@ -134,7 +134,7 @@
 
 这种泛指的复数用法不应被误解为“许多”或“一些”。
 
-### ★**特指活动的复数名词**
+### ◇**特指活动的复数名词**
 
 在“This event was an important part of **the celebrations**.”中，“the celebrations”特指一系列多种具体活动，虽然有复数形式，但不强调其具体可数性。这种用法在英语中很常见，例如：
 
@@ -144,18 +144,18 @@
 
 
 
-## 作定语的名词的单、复形问题
+## ★作定语的名词的单、复形问题
 
 在英语语法中，名词用作定语时，是否使用单数或复数是一个经常困扰学习者的问题。以下是详细的解释和实例。
 
-### ★**定语名词与中心词的数无关**
+### ◇**定语名词与中心词的数无关**
 
 名词作定语时，其单复数形式不需要与中心词一致。例如：
 
 * 可以说 _language teachers_ 也可以说 _a language teacher_。
 * 用作定语的名词的数形式与其所修饰的中心词无直接关系。
 
-### ★**用单数作定语的情况**
+### ◇**用单数作定语的情况**
 
 大多数情况下，名词用作定语时保留单数形式。这是历史发展中保留下来的规则，常见的例子有：
 
@@ -174,7 +174,7 @@
 * _apple trees_（苹果树）
 * _stamp collecting_（集邮）
 
-### ★**用复数作定语的情况**
+### ◇**用复数作定语的情况**
 
 一些名词天生为复数形式，且在用作定语时保持复数形态。常见的例子有：
 
@@ -191,7 +191,7 @@
 * _a customs officer_（海关官员）
 * _a savings-bank_（储蓄银行）
 
-### ★**复数定语的趋势**
+### ◇**复数定语的趋势**
 
 随着语言的演变，有些情况下，复数形式的名词作为定语变得更常见。这些情况需要特别记忆。例如：
 
@@ -201,7 +201,7 @@
 * _parcels post_（包裹邮件）
 * _students groups_（学生小组，单形 _student_ 也可用）
 
-### ★**特殊复数名词的使用**
+### ◇**特殊复数名词的使用**
 
 对于 _men servants_ 和 _women doctors_ 这样的复数定语，这是单数变为复数的特例。之所以使用 _men_ 和 _women_，是因为这两个复数名词不以 _-s_ 结尾，不会与所有格形式混淆。例如，不能用 _ladies_ 作定语，否则在口语中会被误解为 _ladies'_。
 
@@ -209,11 +209,11 @@
 
 
 
-## 一些单、复形名词之比较
+## ★一些单、复形名词之比较
 
 在英语学习中，名词的单数和复数形态使用往往颇为复杂，以下对几组有趣的例子进行说明和分析：
 
-### ★**egg 的单复数用法**
+### ◇**egg 的单复数用法**
 
 * **After breakfast the baby had egg all over his face. (a)**
 * **Don't boil the eggs hard. (b)**
@@ -221,14 +221,14 @@
 (a) 中的 _egg_ 是物质名词，不可数，指代蛋黄和蛋白的总体。\
 (b) 中的 _eggs_ 是类名词，可数，表示具体的鸡蛋。
 
-### ★**ear 的单复数固定用法**
+### ◇**ear 的单复数固定用法**
 
 * **He has no ears for slander or gossip. (a)**
 * **He has no ear for music. (b)**
 
 _ear_ 在固定短语中不可随意更换单复数。(a) 中的 _ears_ 表示“不愿听”，为比喻用法；(b) 中的 _ear_ 是抽象名词，不可数，意指“听力”或“欣赏力”。
 
-### ★**head 的用法对比**
+### ◇**head 的用法对比**
 
 * **Ostriches bury their head in the sand. (a)**
 * **The ostriches buried their heads in the sand. (b)**
@@ -236,14 +236,14 @@ _ear_ 在固定短语中不可随意更换单复数。(a) 中的 _ears_ 表示�
 (a) 中，_head_ 为单数，因主语 _ostriches_ 泛指一类事物。\
 (b) 中，_the ostriches_ 是特指，使用复数 _heads_，表示各自的头。语法学家指出，复数物主代词后常用复数形式，尤其是身体部位时。
 
-### ★**hair 与 hairs**
+### ◇**hair 与 hairs**
 
 * **She has grey hairs. (a)**
 * **She has grey hair. (b)**
 
 单数 _hair_ 表示整体概念，不可数，(b) 表示“满头白发”。复数 _hairs_ 则为具体的几根白发，(a) 表示“有几根白发”。
 
-### ★**heart 与 hearts 的抽象和具体用法**
+### ◇**heart 与 hearts 的抽象和具体用法**
 
 * **It is only in the wisdom of middle age that we lose heart. (a)**
 * **In youth we lose our hearts. (b)**
@@ -251,7 +251,7 @@ _ear_ 在固定短语中不可随意更换单复数。(a) 中的 _ears_ 表示�
 (a) 中的 _lose heart_ 是固定短语，意指“灰心丧气”，_heart_ 为抽象名词，不可数，相当于 _courage_。\
 (b) 中的 _hearts_ 为可数名词，表示具体情感，前用物主代词 _our_。
 
-### ★**life 与 lives 的比较**
+### ◇**life 与 lives 的比较**
 
 * **Their married life was a singularly happy one. (a)**
 * **Their married lives were led under totally different circumstances. (b)**
@@ -259,7 +259,7 @@ _ear_ 在固定短语中不可随意更换单复数。(a) 中的 _ears_ 表示�
 (a) 中，单数 _life_ 指一对夫妻的共同生活。\
 (b) 中，复数 _lives_ 表示各自不同的婚姻生活。
 
-### ★**movement 与 movements**
+### ◇**movement 与 movements**
 
 * **Movement's painful when one's hurt one's back. (a)**
 * **He is very old, and his movements are getting slower and slower. (b)**
@@ -267,13 +267,13 @@ _ear_ 在固定短语中不可随意更换单复数。(a) 中的 _ears_ 表示�
 (a) 中的 _movement_ 为总称，不可数，表示整体的“活动”。\
 (b) 中的 _movements_ 为可数，表示一系列具体动作。
 
-### ★**nerve 与 nerves 的不同含义**
+### ◇**nerve 与 nerves 的不同含义**
 
 * **He had nerve but no nerves.**
 
 _nerve_ 为不可数，表示“胆量、勇气”。_nerves_ 也不可数，但意为“神经紧张”。
 
-### ★**night 的单复数区别**
+### ◇**night 的单复数区别**
 
 * **We sleep at night. (a)**
 * **I can't sleep at nights. (b)**
@@ -281,7 +281,7 @@ _nerve_ 为不可数，表示“胆量、勇气”。_nerves_ 也不可数，但
 (a) 中，_night_ 不可数，指“夜晚”总体概念。\
 (b) 中，_nights_ 可数，表示“数夜”或“许多夜”，强调情况的暂时性或病症。
 
-### ★**plan 与 plans**
+### ◇**plan 与 plans**
 
 * **The police have worked out a plan to catch the thief. (a)**
 * **Have you made any plans for your holidays? (b)**
@@ -289,14 +289,14 @@ _nerve_ 为不可数，表示“胆量、勇气”。_nerves_ 也不可数，但
 (a) 中的 _plan_ 指深思熟虑的单个方案。\
 (b) 中的 _plans_ 指多个具体安排或计划。
 
-### ★**inch 与 inches 的口语和正式英语用法**
+### ◇**inch 与 inches 的口语和正式英语用法**
 
 * **1 centimetre = 0.3937 inch. (a)**
 * **1 centimetre = 0.3937 inches. (b)**
 
 在正式英语中，表示小于1的数词修饰名词时，使用单数如(a)。口语中则可用复数如(b)。
 
-### ★**fruit 与 fruits 的地域差异**
+### ◇**fruit 与 fruits 的地域差异**
 
 * **A cornucopia is a horn-shaped ornamental container overflowing with fruit, flowers, grain, etc., used in art as a sign of plenty. (a)**
 * **A cornucopia is a representation in painting, sculpture, etc. of a horn overflowing with fruits, flowers and grain. (b)**
@@ -308,5 +308,5 @@ _nerve_ 为不可数，表示“胆量、勇气”。_nerves_ 也不可数，但
 
 
 
-
+## ★1
 
