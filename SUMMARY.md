@@ -29,6 +29,12 @@
 ## 语法 <a href="#grammar" id="grammar"></a>
 
 * [名词](grammar/noun/README.md)
+  * [1. 单、复数形式与用法](grammar/noun/singular-plural.md)
+  * [2. 名词的可数性与使用](grammar/noun/countability-usage.md)
+  * [3. 名词所有格](grammar/noun/possessive.md)
+  * [4. 特殊名词的使用与比较](grammar/noun/special-nouns.md)
+  * [5. 词义与习惯用法](grammar/noun/meaning-usage.md)
+  * [6. 特殊用法与例解](grammar/noun/special-usage.md)
   * [名词的“单、复数”](grammar/noun/singular-and-plural-nouns.md)
   * [名词的可数性](grammar/noun/countability-of-nouns.md)
   * [名词单、复数的用法问题](grammar/noun/problems-with-the-use-of-singular-and-plural-nouns.md)
