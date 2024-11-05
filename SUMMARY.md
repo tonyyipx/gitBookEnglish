@@ -85,5 +85,5 @@
     * [用stone抑或stone's?（48）](grammar/noun/special-usage/stone.md)
     * [如何解释a stores?（49）](grammar/noun/special-usage/stores-interpretation.md)
     * [women的复形使用（55）](grammar/noun/special-usage/women-plural.md)
-* [冠词综述](grammar/guan-ci-zong-shu.md)
-* [零冠词](grammar/ling-guan-ci.md)
+* [冠词综述](grammar/overview-of-articles.md)
+* [零冠词](grammar/zero-article.md)
