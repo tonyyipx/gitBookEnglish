@@ -197,7 +197,19 @@
 
 <details>
 
-<summary>5 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/a"><strong>a</strong></a> </summary>
+<summary>5 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/a"><strong>a</strong></a> <em>noun; determiner</em><br>uk /eɪ/ <br>us /eɪ/ <br>plural As, A's or a's</summary>
+
+#### _noun_
+
+A, a noun (LETTER)
+
+A, a noun (MUSIC)
+
+A, a noun (MARK)
+
+#### determiner
+
+
 
 
 
