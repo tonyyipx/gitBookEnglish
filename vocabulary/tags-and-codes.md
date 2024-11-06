@@ -1,14 +1,5 @@
 # 标签与代码
 
-## 标签与代码
-
-**跳跃至：**
-
-* [形容词](tags-and-codes.md#xing-rong-ci)
-* [名词](tags-and-codes.md#ming-ci)
-* [动词](tags-and-codes.md#dong-ci)
-* [其他标签](tags-and-codes.md#qi-ta-biao-qian)
-
 ### 形容词
 
 | _adjective_     | 描述一个名词或代词的词语                                       |
