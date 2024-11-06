@@ -4,6 +4,7 @@
 
 ## 词汇 <a href="#vocabulary" id="vocabulary"></a>
 
+* [标签与代码](vocabulary/tags-and-codes.md)
 * [2000个最常用英语单词](vocabulary/the-2000-most-common-english-words/README.md)
   * [1-100](vocabulary/the-2000-most-common-english-words/1-100.md)
   * [101-200](vocabulary/the-2000-most-common-english-words/101-200.md)
