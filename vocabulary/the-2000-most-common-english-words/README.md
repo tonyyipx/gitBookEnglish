@@ -250,27 +250,104 @@
 
 #### _preposition_
 
-to preposition (INFINITIVE)\
-to preposition (SHOWING DIRECTION)\
-to preposition (RECEIVING)\
-to preposition (UNTIL)\
-to preposition (EXTREME)\
-to preposition (CONNECTION)\
-to preposition (FUTURE)\
-to preposition (CAUSING)\
-to preposition (CONSIDERED BY)\
-to preposition (SERVING)\
-to preposition (AGAINST)\
-to preposition (BELONGING)\
-to preposition (SHOWING POSITION)\
-to preposition (IN HONOUR OF)\
-to preposition (FOR EACH)\
-to preposition (BETWEEN)\
-to preposition (AT THE SAME TIME AS)\
-to preposition (POSITIVE)\
-to preposition (COMPARED WITH)
+**to** _preposition_ (**INFINITIVE**)
 
-#### _adverb_ 
+* 用于动词前，表示不定式（A1）
+* 用于某些动词后，尤其是不定式所描述的动作将会随后发生时（A1）
+* 用于许多表示赞成、需要和想要的动词后（A1）
+* 用于代替动词分句，以免重复（A2）
+* 用于表示间接命令、要求的短语中（A1）
+* 用于某些形容词后（A1）
+* 用于某些名词后
+* 含有带 to 的不定式的分句可用作句子主语
+* 用于疑问词后（A1）
+* 与不定式连用，表示用途或目的（A2）
+* 含有带 to 的不定式的短语可引出分句
+* 与不定式连用，用于 there be + 名词这种结构后（A1）
+
+**to** _preposition_ (**SHOWING DIRECTION**)
+
+* 朝，向，往，对着（A1）
+
+**to** _preposition_ (**RECEIVING**)
+
+* （表示动作的对象）对，给（A2）
+* 与许多可接双宾语的动词连用，用于间接宾语前（A2）
+
+**to** _preposition_ (**UNTIL**)
+
+* 距;到;至（B1）
+* （表示时间）在…之前;距;差（A1）
+
+**to** _preposition_ (**EXTREME**)
+
+* 表示极端的状态
+
+**to** _preposition_ (**CONNECTION**)
+
+* 与…相关（B1）
+* 用于表示被系住或连接的地方（B1）
+
+**to** _preposition_ (**FUTURE**)
+
+* 用于不定式前，通常和 be 连用，构成将来时\
+  **也请参见**[to-be](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/to-be)
+* 表示命令或指出某人应该做什么（mainly UK）
+* 报纸标题中常用 to + 不定式这种结构，前面不加 be，表示未来计划中的事
+
+**to** _preposition_ (**CAUSING**)
+
+* 令（某人）感到…（C2）
+
+**to** _preposition_ (**CONSIDERED** **BY**)
+
+* 对…而言;在…看来
+
+**to** _preposition_ (**SERVING**)
+
+* 为…效力，为…服务（B1）
+
+**to** _preposition_ (**AGAINST**)
+
+* 靠着;顶着;非常接近
+
+**to** _preposition_ (**BELONGING**)
+
+* 与…相配;属于
+* 有…的特征
+
+**to** _preposition_ (**SHOWING** **POSITION**)
+
+* 表示相对位置（B1）
+
+**to** _preposition_ (**IN HONOUR OF**)
+
+* 为向…表示敬意;为了纪念
+
+**to** _preposition_ (**FOR EACH**)
+
+* 每\
+  **比较**[per](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/per)
+
+**to** _preposition_ (**BETWEEN**)
+
+* 用于短语中，表示范围（B2）
+
+**to** _preposition_ (**AT THE SAME TIME AS**)
+
+* 与（音乐或其他声音）同时，伴随
+
+**to** _preposition_ (**POSITIVE**)
+
+* 适合，符合;利于
+
+**to** _preposition_ (**COMPARED WITH**)
+
+* 与…相比（B1 UK）
+
+#### _adverb_
+
+关着地（mainly UK）
 
 </details>
 
