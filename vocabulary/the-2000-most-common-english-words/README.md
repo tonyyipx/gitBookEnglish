@@ -50,7 +50,7 @@
 
 <details>
 
-<summary>2 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/be"><strong>be</strong></a> <em>verb; auxiliary verb</em><br>uk strong /biː/ weak /bi/ weak /bɪ/ <br>us strong /biː/ weak /bi/</summary>
+<summary>2 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/be"><strong>be</strong></a> <em>verb; auxiliary verb</em><br>uk strong /biː/ weak /bi/ weak /bɪ/ <br>us strong /biː/ weak /bi/<br><br>uk strong /biː/ weak /bi/ weak /bɪ/ <br>us strong /biː/ weak /bi/ weak /bɪ/</summary>
 
 #### _verb_
 
@@ -246,9 +246,31 @@
 
 <details>
 
-<summary>6 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/to"><strong>to</strong></a> </summary>
+<summary>6 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/to"><strong>to</strong></a> <em>preposition adverb</em><br>uk strong /tuː/ weak /tʊ/ weak /tu/ weak /tə/ <br>us strong /tuː/ weak /tə/ weak /t̬ə/ weak /tu/<br><br>uk /tuː/ <br>us /tuː/</summary>
 
+#### _preposition_
 
+to preposition (INFINITIVE)\
+to preposition (SHOWING DIRECTION)\
+to preposition (RECEIVING)\
+to preposition (UNTIL)\
+to preposition (EXTREME)\
+to preposition (CONNECTION)\
+to preposition (FUTURE)\
+to preposition (CAUSING)\
+to preposition (CONSIDERED BY)\
+to preposition (SERVING)\
+to preposition (AGAINST)\
+to preposition (BELONGING)\
+to preposition (SHOWING POSITION)\
+to preposition (IN HONOUR OF)\
+to preposition (FOR EACH)\
+to preposition (BETWEEN)\
+to preposition (AT THE SAME TIME AS)\
+to preposition (POSITIVE)\
+to preposition (COMPARED WITH)
+
+#### _adverb_ 
 
 </details>
 
