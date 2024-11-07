@@ -197,21 +197,50 @@
 
 <details>
 
-<summary>5 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/a"><strong>a</strong></a> <em>noun; determiner</em><br>uk /eɪ/ <br>us /eɪ/ <br>plural As, A's or a's</summary>
+<summary>5 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/a"><strong>a</strong></a> <em>noun; determiner</em><br>uk /eɪ/ <br>us /eɪ/ <br>plural As, A's or a's<br><br>weak /ə/ <br>uk strong /eɪ/ weak /ə/ <br>us strong /eɪ/ (also an)</summary>
 
 #### _noun_
 
-A, a noun (LETTER)
+**A, a** noun (**LETTER**)
 
-A, a noun (MUSIC)
+* 英语字母表的第一个字母（[\[ C or U \]](../tags-and-codes.md#ming-ci)）
 
-A, a noun (MARK)
+**A, a** noun (**MUSIC**)
+
+* A音（[\[ C or U \]](../tags-and-codes.md#ming-ci)）
+
+**A, a** noun (**MARK**)
+
+* （学业成绩）A，优，甲（[\[ C or U \]](../tags-and-codes.md#ming-ci)）
 
 #### determiner
 
+**a** determiner (**NOT PARTICULAR**)
 
+* 一（个）（用于名词前，表示未曾提及的，尤其是非特指的人、事、物）（A1）
 
+**a** determiner (**ONE**)
 
+* 表示人或物的类型（A1）
+* 泛指所指类别中的任何一个（A1）
+* 用于一些不可数名词前，在某种意义上起限定性作用
+* （用于某些行为名词前）一下；一次（A2）
+* （尤指饮食的）一份（A2）
+* （用于被视为一体的两个名词中的第一个词前）一副；一套；一组（A2）
+* 用于某些表示数量的词前（A2）
+* （用于不认识的人名前）有个，某一（个）
+* 用于某人的姓之前，表示其为该姓家族成员
+* （用于日期、月份前）一个
+* 一（A1）
+* 用于分数和度量单位之间（A2）
+* （指某事在特定时间段内发生的频率）每一（个），一（A2）
+* （指特定时间段内的收入或费用）一，每（A2）
+
+#### _noun_
+
+**A** noun (**ELECTRICITY**)
+
+* 安（电流强度单位amp“安培”的缩写）
 
 </details>
 
