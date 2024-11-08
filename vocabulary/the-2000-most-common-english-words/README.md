@@ -246,7 +246,7 @@
 
 <details>
 
-<summary>6 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/to"><strong>to</strong></a> <em>preposition adverb</em><br>uk strong /tuː/ weak /tʊ/ weak /tu/ weak /tə/ <br>us strong /tuː/ weak /tə/ weak /t̬ə/ weak /tu/<br><br>uk /tuː/ <br>us /tuː/</summary>
+<summary>6 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/to"><strong>to</strong></a> <em>preposition; adverb</em><br>uk strong /tuː/ weak /tʊ/ weak /tu/ weak /tə/ <br>us strong /tuː/ weak /tə/ weak /t̬ə/ weak /tu/<br><br>uk /tuː/ <br>us /tuː/</summary>
 
 #### _preposition_
 
@@ -353,7 +353,53 @@
 
 <details>
 
-<summary>7 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/in"><strong>in</strong></a> </summary>
+<summary>7 <a href="https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/in"><strong>in</strong></a> <em>preposition; adverb; adjective ·</em> informal<br>in. noun <a href="../tags-and-codes.md#ming-ci">[ C ]</a>; <br>in- prefix (before l il-); (before b, m or p im-); (before r ir-)<br>uk /ɪn/ <br>us /ɪn/<br><br>uk /ɪn/ <br>us /ɪn/<br><br>uk /ɪn/ <br>us /ɪn/</summary>
+
+#### _preposition_
+
+**in** _preposition_ (**INSIDE**)\
+**in** _preposition_ (**INTO**)\
+**in** _preposition_ (**PART**)\
+**in** _preposition_ (**DURING**)\
+**in** _preposition_ (**NO MORE THAN**)\
+**in** _preposition_ (**BEFORE THE END**)\
+**in** _preposition_ (**EXPERIENCING**)\
+**in** _preposition_ (**EXPRESSED**)\
+**in** _preposition_ (**RESULT**)\
+**in** _preposition_ (**ARRANGEMENT**)\
+**in** _preposition_ (**AGE/TEMPERATURE**)\
+**in** _preposition_ (**INVOLVED**)\
+**in** _preposition_ (**WEARING**)\
+**in** _preposition_ (**COMPARING AMOUNTS**)\
+**in** _preposition_ (**CHARACTERISTIC**)\
+**in** _preposition_ (**CAUSE**)
+
+#### _adverb_
+
+in adverb (FROM OUTSIDE)\
+in adverb (AT PLACE)\
+in adverb (INSIDE)\
+in adverb (TRANSPORT)\
+in adverb (GIVEN)\
+in adverb (COAST)\
+in adverb (COMPLETION)\
+in adverb (SPORT)
+
+#### _adjective ·_ informal
+
+
+
+#### in.
+
+#### noun [\[ C \]](../tags-and-codes.md#ming-ci)
+
+
+
+#### in-
+
+#### prefix (before l il-); (before b, m or p im-); (before r ir-)
+
+
 
 
 
