@@ -6,8 +6,6 @@ description: >-
 
 # Why you need a good night's sleep
 
-### ★BBC
-
 {% file src="../../.gitbook/assets/worksheet-241031" %}
 6 Minute English worksheet
 {% endfile %}
