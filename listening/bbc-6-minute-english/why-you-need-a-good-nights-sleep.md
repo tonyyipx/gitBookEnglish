@@ -7,12 +7,10 @@ description: >-
 # Why you need a good night's sleep
 
 {% file src="../../.gitbook/assets/worksheet-241031" %}
-6 Minute English worksheet
-{% endfile %}
 
 {% file src="../../.gitbook/assets/transcript-241031" %}
-transcript
-{% endfile %}
+
+{% file src="../../.gitbook/assets/Why you need a good night's sleep ⏲ 6 Minute English.mp4" %}
 
 <details>
 
@@ -160,8 +158,6 @@ Bye!
 </details>
 
 ***
-
-{% file src="../../.gitbook/assets/Why you need a good night's sleep ⏲ 6 Minute English.mp4" %}
 
 #### 1. Pre-listening Thoughts 预听思考
 
@@ -434,61 +430,3 @@ cn:&#x20;
   3. **Knock-on effect**: "熬夜会对我第二天的心情和精力产生连锁反应。"
 
 </details>
-
-***
-
-### ★Vocabulary
-
-**catching forty winks / getting some shut-eye / dozing / taking a nap**\
-(idioms) sleeping\
-ChatGPT: All these phrases mean to sleep, especially for a short time.
-
-**take in**\
-understand\
-ChatGPT: To understand or absorb new information.
-
-**sleep on it**\
-wait until you’ve had time to think carefully before making a decision\
-ChatGPT: To delay making a decision until you've had time to think about it, often overnight.
-
-**deprivation**\
-an absence or too little of something important eg. food, sleep\
-ChatGPT: The state of lacking something essential, such as sleep (sleep deprivation).\
-\
-**fight-or-flight response**\
-changes in the human body in response to a life-threatening situation which make us either stay and fight the threat, or run away from it\
-ChatGPT: A physical reaction to danger, preparing the body either to fight the threat or run away from it.
-
-**knock-on effect**\
-cause other results or events, but not directly\
-ChatGPT: An indirect result or consequence of an action.
-
-**catching forty winks / getting some shut-eye / dozing / taking a nap**\
-(idioms) 睡觉，尤其是短时间的小睡\
-ChatGPT: 这些短语都表示睡觉，特别是短时间的小睡。
-
-**take in**\
-理解，吸收\
-ChatGPT: 理解或吸收新信息。
-
-**sleep on it**\
-等到有时间仔细思考后再做决定\
-ChatGPT: 延迟做决定，通常是等到第二天思考后再做出决定。
-
-**deprivation**\
-缺乏某些重要的东西，比如食物、睡眠\
-ChatGPT: 缺乏某种重要的东西，例如睡眠（睡眠剥夺）。
-
-**fight-or-flight response**\
-人体对生命威胁的反应，准备应对威胁，可以选择留下战斗或逃跑\
-ChatGPT: 对危险的生理反应，准备让身体要么战斗，要么逃跑。
-
-**knock-on effect**\
-引发其他结果或事件，但并非直接原因\
-ChatGPT: 由于某个行动而间接产生的后果或影响。
-
-### ★**Summary of the Episode:**
-
-The program discussed the importance of sleep, highlighting its benefits and the consequences of sleep deprivation. Sleep helps consolidate memories, solve problems, and refresh the brain. On the other hand, lack of sleep activates the body’s stress response and can lead to health issues like a weakened immune system. The episode also noted that the average person spends about one-third of their life sleeping.
-
-该节目讨论了睡眠的重要性，强调了睡眠的好处以及睡眠不足的后果。睡眠有助于巩固记忆、解决问题和恢复大脑活力。另一方面，睡眠不足会激活身体的压力反应，并可能导致免疫系统减弱等健康问题。该剧集还指出，普通人一生中大约有三分之一的时间在睡觉。
