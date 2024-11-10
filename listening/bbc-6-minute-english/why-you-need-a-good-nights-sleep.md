@@ -16,6 +16,90 @@ description: >-
 transcript
 {% endfile %}
 
+To answer the questions in the worksheet, you would ideally need to listen to the related BBC _6 Minute English_ episode titled _"Why You Need a Good Night's Sleep."_ However, I can provide educated guesses or common knowledge answers that may align with the episode content, based on general information about sleep.
+
+Here’s how you could approach each question:
+
+***
+
+#### 1. Pre-listening Thoughts
+
+* **What do you think this episode is about?**
+  * This episode likely discusses the importance of sleep for health and well-being, and perhaps explores sleep-related vocabulary and idioms.
+* **What do you know about this topic already?**
+  * A good night's sleep is essential for mental and physical health. Lack of sleep can lead to poor concentration, weakened immunity, and even long-term health issues.
+* **What vocabulary do you associate with this topic?**
+  * Sleep, rest, REM (Rapid Eye Movement), deep sleep, insomnia, sleep deprivation, nap, snooze, drowsy, alert.
+
+#### 2. Listening Activity
+
+_(Without the episode audio, these would be sample responses.)_
+
+* **What do the presenters say the episode is about?**
+  * Likely the episode covers the benefits of sleep and explores idioms and vocabulary related to sleep.
+* **What is this week's question? What do you think the answer is?**
+  * The episode might include a quiz question on sleep, for example, "What is a phrase that means to get some sleep?" with possible answers like "catch some winks."
+
+#### 3. Vocabulary Terms and Definitions
+
+_(Here are possible terms related to sleep that might be covered in the episode)_
+
+* **a) Word/phrase: Catching forty winks**
+  * **It means**: Taking a short nap or sleeping briefly.
+* **b) Word/phrase: Sleep on it**
+  * **It means**: To delay making a decision until the next day to have more time to think.
+* **c) Word/phrase: Deprivation**
+  * **It means**: Lack or absence of something essential, like sleep.
+* **d) Word/phrase: Fight-or-flight response**
+  * **It means**: The body’s response to a perceived threat, which prepares one to either confront or flee.
+* **e) Word/phrase: Knock-on effect**
+  * **It means**: When an action or event causes other indirect consequences.
+* **f) Word/phrase: Shut-eye**
+  * **It means**: A casual term for sleep.
+
+#### 4. Surprising or New Information
+
+* **What did you learn that was surprising or new in this episode?**
+  * Without the specific episode details, a general answer could be: "I learned that regular sleep can help strengthen the immune system and may even impact long-term health positively."
+
+#### 5. Quiz Questions
+
+1. **What is an English idiom meaning ‘to sleep’?**
+   * b) catch 40 winks
+2. **Which word means ‘the absence or too little of something important’?**
+   * a) deprivation
+3. **What is a health benefit associated with getting enough sleep?**
+   * c) living longer
+4. **“That’s a very difficult decision to make – why don’t you \_\_\_\_\_\_\_\_?”**
+   * c) sleep on it
+5. **Which phrase describes ‘changes in the human body in response to a life-threatening situation’?**
+   * a) fight-or-flight
+6. **What means ‘to cause other results, but not directly’?**
+   * b) a knock-on effect
+
+#### 6. Write Sentences with Vocabulary
+
+* _Catching forty winks_: "After lunch, I like catching forty winks to recharge."
+* _Sleep on it_: "I’m not sure if I should accept the job offer, so I'll sleep on it."
+* _Deprivation_: "Sleep deprivation affects my concentration during the day."
+* _Fight-or-flight response_: "My fight-or-flight response kicked in when I heard a sudden noise."
+* _Knock-on effect_: "Her promotion had a knock-on effect, motivating everyone else in the team."
+
+#### 7. Reflection Questions
+
+* **What are three things you have learnt from this episode?**
+  1. **Sleep is crucial for maintaining good mental health** – Lack of sleep can lead to increased stress, mood swings, and a reduced ability to concentrate.
+  2. **Sleep impacts physical health** – Consistent, good-quality sleep can help boost the immune system, lower the risk of illnesses, and promote longevity.
+  3. **Certain idioms in English relate to sleep** – English has various expressions, like "catch forty winks" or "sleep on it," that convey different aspects of sleep and rest.
+* **How does this topic make you feel?**
+  * This topic highlights the importance of prioritizing sleep in a busy life. It makes me feel more aware of the need to take care of my health by ensuring I get enough quality sleep every night.
+* **Give three examples relevant to your life using the vocabulary.**
+  1. **Catching forty winks**: "Sometimes I feel tired after lunch, so I try catching forty winks to stay energized for the rest of the day."
+  2. **Sleep on it**: "Whenever I face a challenging decision, I prefer to sleep on it before making a final choice."
+  3. **Knock-on effect**: "When I don’t get enough sleep, it has a knock-on effect on my productivity and mood throughout the day."
+
+***
+
 ### ★Question
 
 How much of the average person's life is spent asleep? Is it:
