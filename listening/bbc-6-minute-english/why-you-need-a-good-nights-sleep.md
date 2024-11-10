@@ -16,10 +16,6 @@ description: >-
 transcript
 {% endfile %}
 
-To answer the questions in the worksheet, you would ideally need to listen to the related BBC _6 Minute English_ episode titled _"Why You Need a Good Night's Sleep."_ However, I can provide educated guesses or common knowledge answers that may align with the episode content, based on general information about sleep.
-
-Here’s how you could approach each question:
-
 ***
 
 #### 1. Pre-listening Thoughts
@@ -100,45 +96,83 @@ _(Here are possible terms related to sleep that might be covered in the episode)
 
 ***
 
-### ★Question
+#### 1. 预听思考
 
-How much of the average person's life is spent asleep? Is it:
+* **你认为这期节目是关于什么的？**
+  * 本期节目可能讨论睡眠的重要性，包括与睡眠相关的词汇和表达。
+* **你已经知道关于该主题的哪些内容？**
+  * 睡眠对心理和身体健康都非常重要。缺乏睡眠会导致注意力难以集中、免疫力下降以及长期健康问题。
+* **你联想到哪些与该主题相关的词汇？**
+  * 睡眠、休息、快速眼动（REM）、失眠、睡眠不足、小睡、困倦、警觉。
 
-a) a half?\
-b) a quarter? or,\
-c) a third?
+#### 2. 听力活动
 
-ChatGPT: (_Ask me questions about this podcast._)\
-Sure, here are the complete answers to the questions based on the podcast:
+* **主持人说节目是关于什么的？**
+  * 本期节目讨论睡眠的重要性、睡眠的健康益处，并学习一些与睡眠相关的词汇。
+* **本周的问题是什么？你认为答案是什么？**
+  * 问题是：普通人一生中有多少时间是在睡眠中度过的？答案是**三分之一**。
 
-#### **Comprehension Questions:**
+#### 3. 词汇及定义
 
-1. **Why was Phil feeling sleepy at the start of the program?**
-   * Phil was feeling sleepy because he didn’t sleep well the previous night.
-2. **According to the podcast, what happens in our brains when we sleep after learning new things?**
-   * During sleep, the brain consolidates information. It transfers memories from short-term storage to long-term storage and helps fit new information in with what we already know.
-3. **What is meant by the phrase "sleep on it," and how does science support this advice?**
-   * "Sleep on it" means to delay making a decision until you’ve had time to think about it, usually overnight. Scientifically, this is supported because the brain continues to work on problems and may find solutions while we sleep.
-4. **What are some health problems that can be caused by chronic sleep deprivation?**
-   * Chronic sleep deprivation can weaken the immune system, increase stress, and contribute to serious health issues like heart disease.
-5. **How much of our lives do we typically spend sleeping, according to the podcast?**
-   * We typically spend about one-third of our lives sleeping.
+* **a) 词汇/短语: catching forty winks（打个盹儿）**
+  * **意思**: 短暂的小睡或小憩。
+* **b) 词汇/短语: sleep on it（暂缓决定）**
+  * **意思**: 延迟决策，待一晚休息后再做决定，以便有更多时间思考。
+* **c) 词汇/短语: deprivation（剥夺）**
+  * **意思**: 缺乏某种重要的事物，如食物或睡眠。
+* **d) 词汇/短语: fight-or-flight response（战斗或逃跑反应）**
+  * **意思**: 身体对危险的自动反应，准备面对威胁或逃避。
+* **e) 词汇/短语: knock-on effect（连锁反应）**
+  * **意思**: 由某种行动间接引发的后续结果或影响。
+* **f) 词汇/短语: shut-eye（闭眼睡觉）**
+  * **意思**: 非正式的“睡觉”之意。
 
-#### **Vocabulary Questions:**
+#### 4. 令人惊讶或新奇的信息
 
-6. **What do the phrases "catch 40 winks" and "take a nap" have in common?**
-   * Both phrases mean to sleep for a short period, often during the day.
-7. **What does the term "fight-or-flight response" refer to?**
-   * It refers to the body’s automatic reaction to a dangerous situation, preparing us either to confront the threat (fight) or escape from it (flight).
-8. **If something has a "knock-on effect," what does this mean?**
-   * A "knock-on effect" means an indirect consequence or result of an action.
-9. **What does it mean to "take in" information?**
-   * "To take in" information means to understand, absorb, or process new knowledge.
-10. **Can you use the phrase "sleep deprivation" in a sentence of your own?**
+* **在本期节目中学到什么令人惊讶或新奇的信息？**
+  * 了解到睡眠对于记忆巩固很重要，大脑在睡眠中将信息从短期储存转移到长期记忆。此外，长期睡眠不足会触发战斗或逃跑反应，影响免疫系统和健康。
 
-* Example sentence: _Due to his busy work schedule, John suffered from sleep deprivation, which made it hard for him to concentrate._
+#### 5. 小测验
 
-Listen to the programme to hear the answer.
+1. **哪个英语习语意指“睡觉”？**
+   * **b) catch 40 winks（小睡一会儿）**
+2. **哪个词意为“缺乏重要的事物”？**
+   * **a) deprivation（剥夺）**
+3. **与充足睡眠有关的健康益处是什么？**
+   * **c) 活得更久**
+4. **“这个决定太难了——你不妨\_\_\_\_\_\_\_？”**
+   * **c) sleep on it（睡一觉再说）**
+5. **哪个短语描述了人类在面临威胁时的反应？**
+   * **a) fight-or-flight（战斗或逃跑反应）**
+6. **什么词意为“间接引发其他结果”？**
+   * **b) a knock-on effect（连锁反应）**
+
+***
+
+#### 6. 用词汇造句
+
+* **Catching forty winks**: "午饭后，我喜欢打个盹来恢复精力。"
+* **Sleep on it**: "我不确定是否接受这个工作，所以我决定睡一觉再考虑。"
+* **Deprivation**: "睡眠不足会影响我白天的专注力。"
+* **Fight-or-flight response**: "当我听到突然的声音时，我的战斗或逃跑反应立即启动。"
+* **Knock-on effect**: "熬夜会对我第二天的效率和心情产生连锁反应。"
+
+***
+
+#### 7. 反思问题
+
+* **你从本期节目中学到了哪些内容？**
+  1. **睡眠有助于记忆巩固**——大脑在睡眠期间将信息从短期存储转移到长期记忆中，有助于解决问题。
+  2. **长期睡眠不足会触发压力反应**——睡眠不足会激活战斗或逃跑反应，长期可能损害免疫系统和健康。
+  3. **人的一生中有三分之一的时间在睡眠中度过**——如果每天睡八小时，这相当于一生中的三分之一。
+* **这个话题让你有什么感受？**
+  * 这个话题强调了睡眠的重要性，激励我关注睡眠质量，以促进身心健康。
+* **结合自身情况，用该词汇举三个例子。**
+  1. **Catching forty winks**: "学习时间长了之后，我会小睡一会儿来恢复精力。"
+  2. **Sleep on it**: "在做重大决定时，我常常会选择睡一觉再想清楚。"
+  3. **Knock-on effect**: "熬夜会对我第二天的心情和精力产生连锁反应。"
+
+***
 
 ### ★Vocabulary
 
@@ -166,29 +200,29 @@ ChatGPT: A physical reaction to danger, preparing the body either to fight the t
 cause other results or events, but not directly\
 ChatGPT: An indirect result or consequence of an action.
 
-打个盹/小睡一下/打瞌睡/小睡\
-&#x20;（习语）睡觉 \
-ChatGPT：所有这些短语都意味着睡觉，尤其是短时间睡觉。&#x20;
+**catching forty winks / getting some shut-eye / dozing / taking a nap**\
+(idioms) 睡觉，尤其是短时间的小睡\
+ChatGPT: 这些短语都表示睡觉，特别是短时间的小睡。
 
-接受 \
-理解 \
-ChatGPT：理解或吸收新信息。&#x20;
+**take in**\
+理解，吸收\
+ChatGPT: 理解或吸收新信息。
 
-睡一觉 \
-等到你有时间仔细思考后再做决定 \
-ChatGPT：推迟做决定，直到你有时间考虑它，通常是一夜之间。&#x20;
+**sleep on it**\
+等到有时间仔细思考后再做决定\
+ChatGPT: 延迟做决定，通常是等到第二天思考后再做出决定。
 
-剥夺 \
-缺少或缺少重要的东西，例如食物、睡眠 \
-ChatGPT：缺乏某些必需品的状态，例如睡眠（睡眠剥夺）。
+**deprivation**\
+缺乏某些重要的东西，比如食物、睡眠\
+ChatGPT: 缺乏某种重要的东西，例如睡眠（睡眠剥夺）。
 
-战斗或逃跑反应 \
-人体在应对危及生命的情况时做出的变化，使我们要么留下来对抗威胁，要么逃离它 \
-ChatGPT：对危险的身体反应，让身体做好对抗威胁或逃离威胁的准备。&#x20;
+**fight-or-flight response**\
+人体对生命威胁的反应，准备应对威胁，可以选择留下战斗或逃跑\
+ChatGPT: 对危险的生理反应，准备让身体要么战斗，要么逃跑。
 
-连锁反应 \
-导致其他结果或事件，但不是直接的 \
-ChatGPT：某个行为的间接结果或后果。
+**knock-on effect**\
+引发其他结果或事件，但并非直接原因\
+ChatGPT: 由于某个行动而间接产生的后果或影响。
 
 ### ★**TRANSCRIPT**
 
