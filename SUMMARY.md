@@ -7,6 +7,8 @@
 * [bbc 6 minute english](listening/bbc-6-minute-english/README.md)
   * [Why you need a good night's sleep](listening/bbc-6-minute-english/why-you-need-a-good-nights-sleep.md)
   * [Divorce: Why does it happen?](listening/bbc-6-minute-english/divorce-why-does-it-happen.md)
+  * [template](listening/bbc-6-minute-english/template.md)
+  * [Copy of template](listening/bbc-6-minute-english/copy-of-template.md)
 
 ## 语法 <a href="#grammar" id="grammar"></a>
 
