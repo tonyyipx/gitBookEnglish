@@ -24,46 +24,35 @@ a) a half?\
 b) a quarter? or,\
 c) a third?
 
-人的一生中平均有多少时间是在睡眠中度过的？是：&#x20;
-
-a) 一半时间？ \
-b) 四分之一时间？还是， \
-c) 三分之一时间？
-
 ChatGPT: (_Ask me questions about this podcast._)\
-**Comprehension Questions:**
+Sure, here are the complete answers to the questions based on the podcast:
 
-1. Why was Phil feeling sleepy at the start of the program?
-2. According to the podcast, what happens in our brains when we sleep after learning new things?
-3. What is meant by the phrase "sleep on it," and how does science support this advice?
-4. What are some health problems that can be caused by chronic sleep deprivation?
-5. How much of our lives do we typically spend sleeping, according to the podcast?
+#### **Comprehension Questions:**
 
-**Vocabulary Questions:**
+1. **Why was Phil feeling sleepy at the start of the program?**
+   * Phil was feeling sleepy because he didn’t sleep well the previous night.
+2. **According to the podcast, what happens in our brains when we sleep after learning new things?**
+   * During sleep, the brain consolidates information. It transfers memories from short-term storage to long-term storage and helps fit new information in with what we already know.
+3. **What is meant by the phrase "sleep on it," and how does science support this advice?**
+   * "Sleep on it" means to delay making a decision until you’ve had time to think about it, usually overnight. Scientifically, this is supported because the brain continues to work on problems and may find solutions while we sleep.
+4. **What are some health problems that can be caused by chronic sleep deprivation?**
+   * Chronic sleep deprivation can weaken the immune system, increase stress, and contribute to serious health issues like heart disease.
+5. **How much of our lives do we typically spend sleeping, according to the podcast?**
+   * We typically spend about one-third of our lives sleeping.
 
-6. What do the phrases "catch 40 winks" and "take a nap" have in common?
-7. What does the term "fight-or-flight response" refer to?
-8. If something has a "knock-on effect," what does this mean?
-9. What does it mean to "take in" information?
-10. Can you use the phrase "sleep deprivation" in a sentence of your own?
+#### **Vocabulary Questions:**
 
-太棒了！让我们通过理解和词汇问题来测试您对播客的理解：
+6. **What do the phrases "catch 40 winks" and "take a nap" have in common?**
+   * Both phrases mean to sleep for a short period, often during the day.
+7. **What does the term "fight-or-flight response" refer to?**
+   * It refers to the body’s automatic reaction to a dangerous situation, preparing us either to confront the threat (fight) or escape from it (flight).
+8. **If something has a "knock-on effect," what does this mean?**
+   * A "knock-on effect" means an indirect consequence or result of an action.
+9. **What does it mean to "take in" information?**
+   * "To take in" information means to understand, absorb, or process new knowledge.
+10. **Can you use the phrase "sleep deprivation" in a sentence of your own?**
 
-#### **理解问题：**
-
-1. 为什么 Phil 在节目开始时感到困倦？
-2. 根据播客，当我们学习新知识后睡觉时，我们的大脑会发生什么？
-3. “睡一觉再说”这句话是什么意思，科学如何支持这一建议？
-4. 长期睡眠不足会导致哪些健康问题？
-5. 根据播客，我们一生中通常有多少时间花在睡眠上？
-
-#### **词汇问题：**
-
-6. “打个盹”和“小睡”这两个短语有什么共同点？
-7. “战斗或逃跑反应”一词指的是什么？
-8. 如果某件事有“连锁反应”，这意味着什么？
-9. “吸收”信息是什么意思？
-10. 你能用“睡眠不足”这个词组造一个句子吗？
+* Example sentence: _Due to his busy work schedule, John suffered from sleep deprivation, which made it hard for him to concentrate._
 
 Listen to the programme to hear the answer.
 
