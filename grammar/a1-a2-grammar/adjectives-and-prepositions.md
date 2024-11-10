@@ -2,7 +2,7 @@
 description: （初级）（中级前）清晰简单的语法
 ---
 
-# ★Adjectives and prepositions
+# Adjectives and prepositions
 
 您是否知道如何使用带有介词的形容词，例如 interested in 或 similar to？通过互动练习测试您所知道的知识，并阅读解释以帮助您。
 
@@ -93,7 +93,7 @@ Total score is 4 out of 8 (50%)
 
 Read the explanation to learn more.
 
-#### ◇语法解释
+### ★语法解释
 
 一些形容词与某些介词搭配使用。没有关于哪个介词与哪个形容词搭配使用的语法规则，因此尝试一起学习它们是个好主意。为了帮助您做到这一点，请在笔记本中以句子或短语的形式写下新词汇。
 

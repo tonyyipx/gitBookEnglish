@@ -10,7 +10,7 @@
 ## 语法 <a href="#grammar" id="grammar"></a>
 
 * [A1-A2 grammar](grammar/a1-a2-grammar/README.md)
-  * [★Adjectives and prepositions](grammar/a1-a2-grammar/adjectives-and-prepositions.md)
+  * [Adjectives and prepositions](grammar/a1-a2-grammar/adjectives-and-prepositions.md)
   * [★](grammar/a1-a2-grammar/undefined.md)
   * [★](grammar/a1-a2-grammar/undefined-1.md)
   * [★](grammar/a1-a2-grammar/undefined-2.md)
