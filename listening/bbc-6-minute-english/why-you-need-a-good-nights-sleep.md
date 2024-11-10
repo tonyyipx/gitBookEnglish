@@ -18,47 +18,187 @@ transcript
 
 ***
 
-#### 1. Pre-listening Thoughts
+#### 1. Pre-listening Thoughts 预听思考
 
-* **What do you think this episode is about?**
-  * This episode likely discusses the importance of sleep for health and well-being, and perhaps explores sleep-related vocabulary and idioms.
-* **What do you know about this topic already?**
-  * A good night's sleep is essential for mental and physical health. Lack of sleep can lead to poor concentration, weakened immunity, and even long-term health issues.
-* **What vocabulary do you associate with this topic?**
-  * Sleep, rest, REM (Rapid Eye Movement), deep sleep, insomnia, sleep deprivation, nap, snooze, drowsy, alert.
+<details>
 
-#### 2. Listening Activity
+<summary>Look at the cover image and title of the episode. <strong>What do you think this episode is about? What do you know about this topic already? What vocabulary do you associate with this topic?</strong></summary>
 
-_(Without the episode audio, these would be sample responses.)_
+cn: **你认为这期节目是关于什么的？你已经知道关于该主题的哪些内容？你联想到哪些与该主题相关的词汇？**
 
-* **What do the presenters say the episode is about?**
-  * Likely the episode covers the benefits of sleep and explores idioms and vocabulary related to sleep.
-* **What is this week's question? What do you think the answer is?**
-  * The episode might include a quiz question on sleep, for example, "What is a phrase that means to get some sleep?" with possible answers like "catch some winks."
+* This episode likely discusses the importance of sleep for health and well-being, and perhaps explores sleep-related vocabulary and idioms.
+* A good night's sleep is essential for mental and physical health. Lack of sleep can lead to poor concentration, weakened immunity, and even long-term health issues.
+* Sleep, rest, REM (Rapid Eye Movement), deep sleep, insomnia, sleep deprivation, nap, snooze, drowsy, alert.
 
-#### 3. Vocabulary Terms and Definitions
+cn:&#x20;
 
-_(Here are possible terms related to sleep that might be covered in the episode)_
+* 本期节目可能讨论睡眠的重要性，包括与睡眠相关的词汇和表达。
+* 睡眠对心理和身体健康都非常重要。缺乏睡眠会导致注意力难以集中、免疫力下降以及长期健康问题。
+* 睡眠、休息、快速眼动（REM）、失眠、睡眠不足、小睡、困倦、警觉。
+
+</details>
+
+#### 2. Listening Activity 听力活动
+
+<details>
+
+<summary>Now listen to the first two minutes of the episode.<br>- <strong>What do the presenters say the episode is about?</strong><br><strong>- What is this week's question? What do you think the answer is?</strong></summary>
+
+cn: - **主持人说节目是关于什么的？**\
+&#x20;      **- 本周的问题是什么？你认为答案是什么？**
+
+* Likely the episode covers the benefits of sleep and explores idioms and vocabulary related to sleep.
+* The episode might include a quiz question on sleep, for example, "What is a phrase that means to get some sleep?" with possible answers like "catch some winks."
+
+cn:&#x20;
+
+* 本期节目讨论睡眠的重要性、睡眠的健康益处，并学习一些与睡眠相关的词汇。
+* 问题是：普通人一生中有多少时间是在睡眠中度过的？答案是**三分之一**。
+
+</details>
+
+#### 3. Vocabulary Terms and Definitions 词汇及定义
+
+<details>
+
+<summary>Now listen to the whole episode. As you listen, write down the six items of vocabulary. What do they mean?</summary>
 
 * **a) Word/phrase: Catching forty winks**
   * **It means**: Taking a short nap or sleeping briefly.
+
+<!---->
+
 * **b) Word/phrase: Sleep on it**
   * **It means**: To delay making a decision until the next day to have more time to think.
+
+<!---->
+
 * **c) Word/phrase: Deprivation**
   * **It means**: Lack or absence of something essential, like sleep.
+
+<!---->
+
 * **d) Word/phrase: Fight-or-flight response**
   * **It means**: The body’s response to a perceived threat, which prepares one to either confront or flee.
+
+<!---->
+
 * **e) Word/phrase: Knock-on effect**
   * **It means**: When an action or event causes other indirect consequences.
+
+<!---->
+
 * **f) Word/phrase: Shut-eye**
   * **It means**: A casual term for sleep.
 
-#### 4. Surprising or New Information
+cn:&#x20;
 
-* **What did you learn that was surprising or new in this episode?**
-  * Without the specific episode details, a general answer could be: "I learned that regular sleep can help strengthen the immune system and may even impact long-term health positively."
+* **a) 词汇/短语: catching forty winks（打个盹儿）**
+  * **意思**: 短暂的小睡或小憩。
 
-#### 5. Quiz Questions
+<!---->
+
+* **b) 词汇/短语: sleep on it（暂缓决定）**
+  * **意思**: 延迟决策，待一晚休息后再做决定，以便有更多时间思考。
+
+<!---->
+
+* **c) 词汇/短语: deprivation（剥夺）**
+  * **意思**: 缺乏某种重要的事物，如食物或睡眠。
+
+<!---->
+
+* **d) 词汇/短语: fight-or-flight response（战斗或逃跑反应）**
+  * **意思**: 身体对危险的自动反应，准备面对威胁或逃避。
+
+<!---->
+
+* **e) 词汇/短语: knock-on effect（连锁反应）**
+  * **意思**: 由某种行动间接引发的后续结果或影响。
+
+<!---->
+
+* **f) 词汇/短语: shut-eye（闭眼睡觉）**
+  * **意思**: 非正式的“睡觉”之意。
+
+</details>
+
+#### 4. Surprising or New Information 令人惊讶或新奇的信息
+
+<details>
+
+<summary><strong>What did you learn that was surprising or new in this episode?</strong></summary>
+
+cn: **在本期节目中学到什么令人惊讶或新奇的信息？**
+
+* Without the specific episode details, a general answer could be: "I learned that regular sleep can help strengthen the immune system and may even impact long-term health positively."
+
+cn:&#x20;
+
+* 了解到睡眠对于记忆巩固很重要，大脑在睡眠中将信息从短期储存转移到长期记忆。此外，长期睡眠不足会触发战斗或逃跑反应，影响免疫系统和健康。
+
+</details>
+
+#### 5. Quiz Questions 小测验
+
+<details>
+
+<summary>Answer the quiz questions. Listen again or use the transcript to help you.</summary>
+
+1. What is an English idiom meaning ‘to sleep’?\
+   a) catch 40 waves\
+   b) catch 40 winks\
+   c) catch 50 winks
+
+<!---->
+
+2. Which word means ‘the absence or too little of something important’?\
+   a) deprivation\
+   b) abundance\
+   c) dozing
+
+<!---->
+
+3. What is a health benefit associated with getting enough sleep?\
+   a) a weakened immune system\
+   b) better dreams\
+   c) living longer
+
+<!---->
+
+4. “That’s a very difficult decision to make – why don’t you \_\_\_\_\_\_\_\_?”\
+   a) sleep it\
+   b) sleep over it\
+   c) sleep on it
+
+<!---->
+
+5. Which phrase describes ‘changes in the human body in response to a life-threatening situation’?\
+   a) fight-or-flight\
+   b) knock out\
+   c) shut-eye
+
+<!---->
+
+6. What means ‘to cause other results, but not directly’? \
+   a) cause and effect\
+   b) a knock-on effect\
+   c) a direct consequence
+
+cn:&#x20;
+
+* **哪个英语习语意指“睡觉”？**
+* **哪个词意为“缺乏重要的事物”？**
+* **与充足睡眠有关的健康益处是什么？**
+* **“这个决定太难了——你不妨\_\_\_\_\_\_\_？”**
+* **哪个短语描述了人类在面临威胁时的反应？**
+* **什么词意为“间接引发其他结果”？**
+
+</details>
+
+<details>
+
+<summary>Answer</summary>
 
 1. **What is an English idiom meaning ‘to sleep’?**
    * b) catch 40 winks
@@ -73,66 +213,7 @@ _(Here are possible terms related to sleep that might be covered in the episode)
 6. **What means ‘to cause other results, but not directly’?**
    * b) a knock-on effect
 
-#### 6. Write Sentences with Vocabulary
-
-* _Catching forty winks_: "After lunch, I like catching forty winks to recharge."
-* _Sleep on it_: "I’m not sure if I should accept the job offer, so I'll sleep on it."
-* _Deprivation_: "Sleep deprivation affects my concentration during the day."
-* _Fight-or-flight response_: "My fight-or-flight response kicked in when I heard a sudden noise."
-* _Knock-on effect_: "Her promotion had a knock-on effect, motivating everyone else in the team."
-
-#### 7. Reflection Questions
-
-* **What are three things you have learnt from this episode?**
-  1. **Sleep is crucial for maintaining good mental health** – Lack of sleep can lead to increased stress, mood swings, and a reduced ability to concentrate.
-  2. **Sleep impacts physical health** – Consistent, good-quality sleep can help boost the immune system, lower the risk of illnesses, and promote longevity.
-  3. **Certain idioms in English relate to sleep** – English has various expressions, like "catch forty winks" or "sleep on it," that convey different aspects of sleep and rest.
-* **How does this topic make you feel?**
-  * This topic highlights the importance of prioritizing sleep in a busy life. It makes me feel more aware of the need to take care of my health by ensuring I get enough quality sleep every night.
-* **Give three examples relevant to your life using the vocabulary.**
-  1. **Catching forty winks**: "Sometimes I feel tired after lunch, so I try catching forty winks to stay energized for the rest of the day."
-  2. **Sleep on it**: "Whenever I face a challenging decision, I prefer to sleep on it before making a final choice."
-  3. **Knock-on effect**: "When I don’t get enough sleep, it has a knock-on effect on my productivity and mood throughout the day."
-
-***
-
-#### 1. 预听思考
-
-* **你认为这期节目是关于什么的？**
-  * 本期节目可能讨论睡眠的重要性，包括与睡眠相关的词汇和表达。
-* **你已经知道关于该主题的哪些内容？**
-  * 睡眠对心理和身体健康都非常重要。缺乏睡眠会导致注意力难以集中、免疫力下降以及长期健康问题。
-* **你联想到哪些与该主题相关的词汇？**
-  * 睡眠、休息、快速眼动（REM）、失眠、睡眠不足、小睡、困倦、警觉。
-
-#### 2. 听力活动
-
-* **主持人说节目是关于什么的？**
-  * 本期节目讨论睡眠的重要性、睡眠的健康益处，并学习一些与睡眠相关的词汇。
-* **本周的问题是什么？你认为答案是什么？**
-  * 问题是：普通人一生中有多少时间是在睡眠中度过的？答案是**三分之一**。
-
-#### 3. 词汇及定义
-
-* **a) 词汇/短语: catching forty winks（打个盹儿）**
-  * **意思**: 短暂的小睡或小憩。
-* **b) 词汇/短语: sleep on it（暂缓决定）**
-  * **意思**: 延迟决策，待一晚休息后再做决定，以便有更多时间思考。
-* **c) 词汇/短语: deprivation（剥夺）**
-  * **意思**: 缺乏某种重要的事物，如食物或睡眠。
-* **d) 词汇/短语: fight-or-flight response（战斗或逃跑反应）**
-  * **意思**: 身体对危险的自动反应，准备面对威胁或逃避。
-* **e) 词汇/短语: knock-on effect（连锁反应）**
-  * **意思**: 由某种行动间接引发的后续结果或影响。
-* **f) 词汇/短语: shut-eye（闭眼睡觉）**
-  * **意思**: 非正式的“睡觉”之意。
-
-#### 4. 令人惊讶或新奇的信息
-
-* **在本期节目中学到什么令人惊讶或新奇的信息？**
-  * 了解到睡眠对于记忆巩固很重要，大脑在睡眠中将信息从短期储存转移到长期记忆。此外，长期睡眠不足会触发战斗或逃跑反应，影响免疫系统和健康。
-
-#### 5. 小测验
+cn:&#x20;
 
 1. **哪个英语习语意指“睡觉”？**
    * **b) catch 40 winks（小睡一会儿）**
@@ -147,9 +228,21 @@ _(Here are possible terms related to sleep that might be covered in the episode)
 6. **什么词意为“间接引发其他结果”？**
    * **b) a knock-on effect（连锁反应）**
 
-***
+</details>
 
-#### 6. 用词汇造句
+#### 6.  Write Sentences with Vocabulary 用词汇造句
+
+<details>
+
+<summary>Write your own sentences using the vocabulary.</summary>
+
+* _Catching forty winks_: "After lunch, I like catching forty winks to recharge."
+* _Sleep on it_: "I’m not sure if I should accept the job offer, so I'll sleep on it."
+* _Deprivation_: "Sleep deprivation affects my concentration during the day."
+* _Fight-or-flight response_: "My fight-or-flight response kicked in when I heard a sudden noise."
+* _Knock-on effect_: "Her promotion had a knock-on effect, motivating everyone else in the team."
+
+cn:&#x20;
 
 * **Catching forty winks**: "午饭后，我喜欢打个盹来恢复精力。"
 * **Sleep on it**: "我不确定是否接受这个工作，所以我决定睡一觉再考虑。"
@@ -157,20 +250,45 @@ _(Here are possible terms related to sleep that might be covered in the episode)
 * **Fight-or-flight response**: "当我听到突然的声音时，我的战斗或逃跑反应立即启动。"
 * **Knock-on effect**: "熬夜会对我第二天的效率和心情产生连锁反应。"
 
-***
+</details>
 
-#### 7. 反思问题
+#### 7. Reflection Questions 反思问题
+
+<details>
+
+<summary>Answer the following questions.<br>- What are three things you have learnt from this episode?<br>- How does this topic make you feel?<br>- Give three examples relevant to your life using the vocabulary.</summary>
+
+* **What are three things you have learnt from this episode?**
+  1. **Sleep is crucial for maintaining good mental health** – Lack of sleep can lead to increased stress, mood swings, and a reduced ability to concentrate.
+  2. **Sleep impacts physical health** – Consistent, good-quality sleep can help boost the immune system, lower the risk of illnesses, and promote longevity.
+  3. **Certain idioms in English relate to sleep** – English has various expressions, like "catch forty winks" or "sleep on it," that convey different aspects of sleep and rest.
+* **How does this topic make you feel?**
+  * This topic highlights the importance of prioritizing sleep in a busy life. It makes me feel more aware of the need to take care of my health by ensuring I get enough quality sleep every night.
+* **Give three examples relevant to your life using the vocabulary.**
+  1. **Catching forty winks**: "Sometimes I feel tired after lunch, so I try catching forty winks to stay energized for the rest of the day."
+  2. **Sleep on it**: "Whenever I face a challenging decision, I prefer to sleep on it before making a final choice."
+  3. **Knock-on effect**: "When I don’t get enough sleep, it has a knock-on effect on my productivity and mood throughout the day."
+
+cn:&#x20;
 
 * **你从本期节目中学到了哪些内容？**
   1. **睡眠有助于记忆巩固**——大脑在睡眠期间将信息从短期存储转移到长期记忆中，有助于解决问题。
   2. **长期睡眠不足会触发压力反应**——睡眠不足会激活战斗或逃跑反应，长期可能损害免疫系统和健康。
   3. **人的一生中有三分之一的时间在睡眠中度过**——如果每天睡八小时，这相当于一生中的三分之一。
+
+<!---->
+
 * **这个话题让你有什么感受？**
   * 这个话题强调了睡眠的重要性，激励我关注睡眠质量，以促进身心健康。
+
+<!---->
+
 * **结合自身情况，用该词汇举三个例子。**
   1. **Catching forty winks**: "学习时间长了之后，我会小睡一会儿来恢复精力。"
   2. **Sleep on it**: "在做重大决定时，我常常会选择睡一觉再想清楚。"
   3. **Knock-on effect**: "熬夜会对我第二天的心情和精力产生连锁反应。"
+
+</details>
 
 ***
 
