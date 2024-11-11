@@ -211,63 +211,33 @@ cn:&#x20;
 
 <summary>Now listen to the whole episode. As you listen, write down the six items of vocabulary. What do they mean?</summary>
 
-* **a) Word/phrase: Catching forty winks**
-  * **It means**: Taking a short nap or sleeping briefly.
-
-<!---->
-
-* **b) Word/phrase: Sleep on it**
-  * **It means**: To delay making a decision until the next day to have more time to think.
-
-<!---->
-
-* **c) Word/phrase: Deprivation**
-  * **It means**: Lack or absence of something essential, like sleep.
-
-<!---->
-
-* **d) Word/phrase: Fight-or-flight response**
-  * **It means**: The body’s response to a perceived threat, which prepares one to either confront or flee.
-
-<!---->
-
-* **e) Word/phrase: Knock-on effect**
-  * **It means**: When an action or event causes other indirect consequences.
-
-<!---->
-
-* **f) Word/phrase: Shut-eye**
-  * **It means**: A casual term for sleep.
+* **catching forty winks / getting some shut-eye / dozing / taking a nap**\
+  (idioms) sleeping
+* **take in**\
+  understand
+* **sleep on it**\
+  wait until you’ve had time to think carefully before making a decision
+* **deprivation**\
+  an absence or too little of something important eg. food, sleep
+* **fight-or-flight response**\
+  changes in the human body in response to a life-threatening situation which make us either stay and fight the threat, or run away from it
+* **knock-on effect**\
+  cause other results or events, but not directly
 
 cn:&#x20;
 
-* **a) 词汇/短语: catching forty winks（打个盹儿）**
-  * **意思**: 短暂的小睡或小憩。
-
-<!---->
-
-* **b) 词汇/短语: sleep on it（暂缓决定）**
-  * **意思**: 延迟决策，待一晚休息后再做决定，以便有更多时间思考。
-
-<!---->
-
-* **c) 词汇/短语: deprivation（剥夺）**
-  * **意思**: 缺乏某种重要的事物，如食物或睡眠。
-
-<!---->
-
-* **d) 词汇/短语: fight-or-flight response（战斗或逃跑反应）**
-  * **意思**: 身体对危险的自动反应，准备面对威胁或逃避。
-
-<!---->
-
-* **e) 词汇/短语: knock-on effect（连锁反应）**
-  * **意思**: 由某种行动间接引发的后续结果或影响。
-
-<!---->
-
-* **f) 词汇/短语: shut-eye（闭眼睡觉）**
-  * **意思**: 非正式的“睡觉”之意。
+* **catching forty winks / getting some shut-eye / dozing / taking a nap**\
+  （习语）小睡，打盹，休息
+* **take in**\
+  理解，领会
+* **sleep on it**\
+  等待一段时间再做决定，仔细思考后再做决定
+* **deprivation**\
+  缺乏，匮乏，指缺少或不足重要事物（例如食物、睡眠）
+* **fight-or-flight response**\
+  战斗或逃跑反应，指人在面对生命威胁时身体的变化，使我们要么留下来与威胁抗争，要么逃离
+* **knock-on effect**\
+  间接引起的其他结果或事件
 
 </details>
 
