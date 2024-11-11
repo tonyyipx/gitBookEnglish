@@ -189,6 +189,13 @@ c) 仲夏节（6月24日）？
   * b) the first Monday of the new year
   * c) Midsummer’s Day (June 24)
 * **Answer**: b) the first Monday of the new year.
+*   In Britain, one day of the year in particular is known by divorce lawyers and relationship counsellors as ‘Divorce Day’, but which day is it?
+
+    a)    Christmas Day?\
+    b)    the first Monday of the new year? or,\
+    c)    Midsummer’s Day, the 24th of June?
+
+    Listen to the programme to hear the answer.
 
 cn:
 

@@ -190,6 +190,13 @@ cn: - **主持人说节目是关于什么的？**\
 
 * Likely the episode covers the benefits of sleep and explores idioms and vocabulary related to sleep.
 * The episode might include a quiz question on sleep, for example, "What is a phrase that means to get some sleep?" with possible answers like "catch some winks."
+*   How much of the average person's life is spent asleep? Is it:
+
+    a) a half?\
+    b) a quarter? or,\
+    c) a third?
+
+    Listen to the programme to hear the answer.
 
 cn:&#x20;
 
