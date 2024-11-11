@@ -376,6 +376,10 @@ cn:&#x20;
 
 <summary>Answer the following questions.<br>- What are three things you have learnt from this episode?<br>- How does this topic make you feel?<br>- Give three examples relevant to your life using the vocabulary.</summary>
 
+你从这一集中学到了哪三件事？\
+这个话题让你有什么感受？\
+用词汇举出三个与你的生活相关的例子。
+
 * **What are three things you have learnt from this episode?**
   1. **Sleep is crucial for maintaining good mental health** – Lack of sleep can lead to increased stress, mood swings, and a reduced ability to concentrate.
   2. **Sleep impacts physical health** – Consistent, good-quality sleep can help boost the immune system, lower the risk of illnesses, and promote longevity.
@@ -386,24 +390,5 @@ cn:&#x20;
   1. **Catching forty winks**: "Sometimes I feel tired after lunch, so I try catching forty winks to stay energized for the rest of the day."
   2. **Sleep on it**: "Whenever I face a challenging decision, I prefer to sleep on it before making a final choice."
   3. **Knock-on effect**: "When I don’t get enough sleep, it has a knock-on effect on my productivity and mood throughout the day."
-
-cn:&#x20;
-
-* **你从本期节目中学到了哪些内容？**
-  1. **睡眠有助于记忆巩固**——大脑在睡眠期间将信息从短期存储转移到长期记忆中，有助于解决问题。
-  2. **长期睡眠不足会触发压力反应**——睡眠不足会激活战斗或逃跑反应，长期可能损害免疫系统和健康。
-  3. **人的一生中有三分之一的时间在睡眠中度过**——如果每天睡八小时，这相当于一生中的三分之一。
-
-<!---->
-
-* **这个话题让你有什么感受？**
-  * 这个话题强调了睡眠的重要性，激励我关注睡眠质量，以促进身心健康。
-
-<!---->
-
-* **结合自身情况，用该词汇举三个例子。**
-  1. **Catching forty winks**: "学习时间长了之后，我会小睡一会儿来恢复精力。"
-  2. **Sleep on it**: "在做重大决定时，我常常会选择睡一觉再想清楚。"
-  3. **Knock-on effect**: "熬夜会对我第二天的心情和精力产生连锁反应。"
 
 </details>
