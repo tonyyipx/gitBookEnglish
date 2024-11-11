@@ -245,11 +245,11 @@ cn:&#x20;
 
 <details>
 
-<summary><strong>What did you learn that was surprising or new in this episode?</strong></summary>
+<summary>What did you learn that was surprising or new in this episode?</summary>
 
 cn: **在本期节目中学到什么令人惊讶或新奇的信息？**
 
-* Without the specific episode details, a general answer could be: "I learned that regular sleep can help strengthen the immune system and may even impact long-term health positively."
+* I learned that regular sleep can help strengthen the immune system and may even impact long-term health positively.
 
 cn:&#x20;
 
