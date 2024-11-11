@@ -14,8 +14,6 @@ description: How is divorce talked about in different countries?
 
 <summary><strong>TRANSCRIPT</strong></summary>
 
-Note: This is not a word-for-word transcript.
-
 **Phil**\
 Hello. This is 6 Minute English from BBC Learning English. I’m Phil.
 
@@ -97,8 +95,6 @@ Bye!
 <details>
 
 <summary>cn: <strong>TRANSCRIPT</strong></summary>
-
-请注意：这不是逐字翻译。
 
 #### 节目介绍
 
