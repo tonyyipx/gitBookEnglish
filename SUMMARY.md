@@ -15,8 +15,8 @@
 * [A1-A2 grammar](grammar/a1-a2-grammar/README.md)
   * [Adjectives and prepositions](grammar/a1-a2-grammar/adjectives-and-prepositions.md)
   * [Adjectives ending in '-ed' and '-ing'](grammar/a1-a2-grammar/adjectives-ending-in-ed-and-ing.md)
+  * [Articles: 'a', 'an', 'the'](grammar/a1-a2-grammar/articles-a-an-the.md)
   * [★](grammar/a1-a2-grammar/undefined.md)
-  * [★](grammar/a1-a2-grammar/undefined-1.md)
 
 ## 词汇 <a href="#vocabulary" id="vocabulary"></a>
 
