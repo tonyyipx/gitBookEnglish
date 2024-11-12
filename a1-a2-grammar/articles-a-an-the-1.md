@@ -1,3 +1,0 @@
-# Articles: 'a', 'an', 'the'
-
-★
