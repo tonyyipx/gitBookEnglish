@@ -179,3 +179,39 @@ Do this exercise to test your grammar again.\
 
 </details>
 
+{% file src="../.gitbook/assets/Screenshot 2024-11-12 at 21.33.33 (1).png" %}
+
+<details>
+
+<summary>ChatGPT</summary>
+
+分析如下：
+
+1. **I'm still at - work but I'll leave soon.**
+   * 正确：`work` 是不可数名词，不加冠词。
+2. **I'm going to the prison to see my uncle.**
+   * 正确：`the prison` 表示特指某一个监狱，符合语境，因为说话者是去探望亲人，而不是作为囚犯。
+3. **The University of Nottingham is in the United Kingdom.**
+   * 正确：`the University of Nottingham` 是特指大学名称，需要使用冠词 `the`；`the United Kingdom` 表示特指国家，需要冠词。
+4. **Every Friday my grandad goes to the prison to teach a maths class.**
+   * 正确：这里使用 `the prison` 表示特指的监狱，表明说话者的爷爷去某个特定的监狱授课。
+5. **She was born in Japan, but she went to - university in - Bahamas.**
+   * 错误：`-`（Bahamas）
+   * 解释：
+     * `university` 前不加冠词是正确的，因为是泛指。
+     * `Bahamas` 是地名，通常加冠词 `the`，改为 **in the Bahamas**。
+6. **My daughter does piano classes after - school.**
+   * 正确：`school` 在这里是泛指上学的概念，不需要冠词。
+7. **I'm going to the school for a parents' meeting.**
+   * 正确：`the school` 表示特指的学校，表明家长要去孩子所在的学校参加会议。
+8. **The Danube flows from - Germany, through - Central Europe to the Black Sea.**
+   * 正确：
+     * `Germany` 和 `Central Europe` 是地名，不需要冠词。
+     * `the Black Sea` 是特指海域名称，需要冠词 `the`。
+
+#### 错误总结：
+
+* **第 5 句** 错误在于未加 `the`，正确形式应为 **in the Bahamas**，因为 `the Bahamas` 是群岛国家，通常需要冠词。
+
+</details>
+
