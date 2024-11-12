@@ -4,9 +4,9 @@ description: Technology is always changing! Or is it...?
 
 # Tech that refuses to die
 
-{% file src="../.gitbook/assets/241017_worksheet.pdf" %}
-worksheet
-{% endfile %}
+
+
+
 
 <details>
 
@@ -177,13 +177,26 @@ Chris 和 Tacye 讨论的是 QWERTY 键盘，这种传统的键盘布局上排�
 
 ***
 
+<details>
+
+<summary>Introduction</summary>
+
+Why is some old technology still used? Georgie and Phil discuss this and teach you some useful vocabulary.
+
+</details>
+
+***
+
 1\.
 
 <details>
 
-<summary>Look at the cover image and title of the episode. What do you think this episode is about? What do you know about this topic already? What vocabulary do you associate with this topic?</summary>
+<summary>Look at the cover image and title of the episode. What do you think this episode is about? What do you know about this topic already? What vocabulary do you associate with this topic?<br>根据封面图片和标题，你认为这一集的内容是什么？你对这个话题已经了解些什么？你会联想到哪些词汇？</summary>
 
+The title "Tech that refuses to die" suggests the episode will discuss technologies that are considered outdated but are still in use today. I expect it to cover devices like floppy disks, cassette players, and older storage methods. The vocabulary I associate with this topic includes words like "obsolete," "retro," "comeback," and "clockwork."
 
+cn: \
+这一集的标题是 "Tech that refuses to die"（那些拒绝消失的技术），从标题来看，这一集可能会讨论一些尽管看似过时但仍在被使用的技术。这类话题通常涉及老旧设备或机械设计，例如软盘、随身听、磁带等。我会联想到的词汇有 "obsolete"（过时的）、"retro"（复古的）、"comeback"（卷土重来）和 "clockwork"（发条机械）。
 
 </details>
 
@@ -191,9 +204,30 @@ Chris 和 Tacye 讨论的是 QWERTY 键盘，这种传统的键盘布局上排�
 
 <details>
 
-<summary>Now listen to the first two minutes of the episode.<br>- What do the presenters say the episode is about?<br>- What is this week's question? What do you think the answer is?</summary>
+<summary>Now listen to the first two minutes of the episode.<br>- What do the presenters say the episode is about?<br>- What is this week's question? What do you think the answer is?<br>- 主持人说本集讲的是什么？<br>- 本周的问题是什么？你认为答案是什么？</summary>
 
+The presenters say the episode is about old technology that continues to be used today despite seeming outdated.\
+**This week's question:** What was the first computer developed for home use in the UK?\
+Options:
 
+* a) Commodore 64
+* b) Sinclair ZX80
+* c) BBC Micro
+
+**Georgie’s guess:** Commodore 64.\
+**Correct answer:** Sinclair ZX80.
+
+cn:
+
+**节目内容：** 主持人讨论的是一些旧技术即使在现代也依然被使用的现象，并解释了为什么这些技术没有被淘汰。
+
+**本周的问题：** 英国推出的第一台家用计算机是什么名字？ 选项： a) Commodore 64\
+b) Sinclair ZX80\
+c) BBC Micro
+
+**Georgie 的回答：** 她猜是 Commodore 64。
+
+**正确答案：** Sinclair ZX80。
 
 </details>
 
@@ -201,15 +235,7 @@ Chris 和 Tacye 讨论的是 QWERTY 键盘，这种传统的键盘布局上排�
 
 <details>
 
-<summary>Now listen to the whole episode. As you listen, write down the six items of vocabulary. What do they mean?</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Answers</summary>
+<summary>Now listen to the whole episode. As you listen, write down the six items of vocabulary. What do they mean?<br>现在听完整个片段。听的时候，写下六个词汇。它们是什么意思？</summary>
 
 a. obsolete - no longer in use, having been replaced by something newer, better or more fashionable
 
@@ -223,6 +249,28 @@ e. verbatim - using exactly the same words as were originally used
 
 f. stick with - continue using or doing something
 
+cn:
+
+**六个词汇及其意思：**
+
+a) **obsolete**\
+意思：过时的，已经被更新的或更好的东西取代了。
+
+b) **if it ain’t broke, don’t fix it**\
+意思：一种谚语，表示如果某物工作正常，就没有必要去更改它。
+
+c) **clockwork**\
+意思：使用金属弹簧和齿轮的机械装置，通过上发条工作。
+
+d) **QWERTY**\
+意思：传统的键盘布局，上排从字母 q、w、e、r、t 和 y 开始。
+
+e) **verbatim**\
+意思：逐字逐句，使用完全相同的词汇。
+
+f) **stick with**\
+意思：继续使用或坚持某事物。
+
 </details>
 
 
@@ -231,9 +279,13 @@ f. stick with - continue using or doing something
 
 <details>
 
-<summary>What did you learn that was surprising or new in this episode?</summary>
+<summary>What did you learn that was surprising or new in this episode?<br>在这一集中您了解到了什么令人惊讶或新颖的事情？</summary>
 
+It was surprising to learn that the CERN laboratory in Switzerland still uses magnetic tape reels to store data. It’s also unexpected that Japan’s government used floppy disks for official documents until recently. Additionally, I found it fascinating that NASA created a clockwork rover for exploring Venus, relying on ancient mechanical technology combined with modern space exploration needs.
 
+cn:
+
+让我感到惊讶的是，瑞士的 CERN 实验室竟然还在使用磁带卷来存储数据，这种看似古老的存储技术如今仍然被应用在最前沿的科学研究中。此外，日本政府直到最近还在使用软盘存储官方文件，这也是出乎意料的，毕竟软盘已经在市场上消失多年了。最后，NASA 居然设计了一款发条驱动的探测器用于金星探索，这种结合古老机械技术和现代太空探索的方式非常创新。
 
 </details>
 
@@ -241,7 +293,7 @@ f. stick with - continue using or doing something
 
 <details>
 
-<summary>Answer the quiz questions. Listen again or use the transcript to help you.</summary>
+<summary>Answer the quiz questions. Listen again or use the transcript to help you.<br>回答测验问题。再听一遍或使用抄本来帮助你。</summary>
 
 1. Which old tech is still used by the CERN physics laboratory in Switzerland?\
    a) floppy disks\
@@ -299,9 +351,14 @@ f. stick with - continue using or doing something
 
 <details>
 
-<summary></summary>
+<summary>Write your own sentences using the vocabulary.<br>使用词汇写出自己的句子。</summary>
 
-
+* My old smartphone is now obsolete because it can’t run the latest apps.
+* If it ain’t broke, don’t fix it – that’s why I’m still using my old laptop.
+* The antique clock in my house is clockwork and needs to be wound up daily.
+* I’m so used to the QWERTY layout that I don’t want to switch to any other keyboard.
+* The court stenographer had to type the witness's statement verbatim.
+* I decided to stick with my current phone because it still works well.
 
 </details>
 
@@ -309,9 +366,35 @@ f. stick with - continue using or doing something
 
 <details>
 
-<summary></summary>
+<summary>Answer the following questions.<br>- What are three things you have learnt from this episode?<br>- How does this topic make you feel?<br>- Give three examples relevant to your life using the vocabulary.<br>- 你从这一集中学到了哪三件事？<br>- 这个话题让你有什么感受？<br>- 用词汇举出三个与你的生活相关的例子。</summary>
 
+**Answer the following questions:**
 
+1. **What are three things you have learnt from this episode?**
+   * The Japanese government recently used floppy disks for official documents.
+   * CERN still relies on magnetic tape reels for data storage.
+   * NASA designed a clockwork rover for Venus exploration.
+2. **How does this topic make you feel?** It makes me appreciate that not all technological progress means abandoning older inventions. Some classic designs are still very practical and reliable, even in modern contexts.
+3. **Give three examples relevant to your life using the vocabulary.**
+   * My first gaming console is now obsolete, but I still keep it for nostalgic reasons.
+   * I stick with my old QWERTY keyboard because it’s what I’m used to.
+   * My grandfather’s clock is a beautiful piece of clockwork technology that still works perfectly.
+
+cn:
+
+**学习到的新内容：**
+
+1. 日本政府直到最近还在使用软盘存储官方文件。
+2. NASA 在 2024 年设计了一款机械发条探测器，用于金星探索。
+3. 法庭速记员使用特殊键盘，可以比 QWERTY 键盘更快地记录文字。
+
+**感受：** 这个话题让我觉得有趣，因为有些我们认为过时的技术居然还在被使用，说明它们的设计非常经典。
+
+**结合自己生活的例子：**
+
+1. 我的旧手机虽然已经过时，但我还是继续使用它（stick with it）。
+2. 我使用的键盘是 QWERTY 布局的，虽然知道其他布局更快，但我还是习惯了这个。
+3. 有些古董钟表是发条驱动的（clockwork），它们在现代依然能正常工作
 
 </details>
 

@@ -4,11 +4,7 @@ description: How is divorce talked about in different countries?
 
 # Divorce: Why does it happen?
 
-{% file src="../../.gitbook/assets/worksheet-241024" %}
-
-{% file src="../../.gitbook/assets/transcript-241024" %}
-
-{% file src="../../.gitbook/assets/Divorce_ Why does it happen_ ⏲ 6 Minute English.mp4" %}
+{% file src="../.gitbook/assets/Divorce_ Why does it happen_ ⏲ 6 Minute English.mp4" %}
 
 <details>
 
@@ -157,6 +153,16 @@ c) 仲夏节（6月24日）？
 再次提醒，六分钟又结束了，别忘了下次继续收听我们的节目，了解更多热门话题和实用词汇。现在说再见吧！
 
 **菲尔** 再见！
+
+</details>
+
+***
+
+<details>
+
+<summary>Introduction</summary>
+
+How is divorce talked about in different countries? Georgie and Phil teach you some new vocabulary.
 
 </details>
 
