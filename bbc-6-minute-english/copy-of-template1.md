@@ -1,8 +1,4 @@
----
-description: How is divorce talked about in different countries?
----
-
-# template
+# Copy of template1
 
 
 
@@ -28,17 +24,7 @@ description: How is divorce talked about in different countries?
 
 ***
 
-
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-
+1\.
 
 <details>
 
@@ -48,17 +34,7 @@ description: How is divorce talked about in different countries?
 
 </details>
 
-
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-
+2\.
 
 <details>
 
@@ -68,17 +44,7 @@ description: How is divorce talked about in different countries?
 
 </details>
 
-
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-
+3\.
 
 <details>
 
@@ -88,7 +54,37 @@ description: How is divorce talked about in different countries?
 
 </details>
 
+4\.
 
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+5\.
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+6\.
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+7\.
 
 <details>
 

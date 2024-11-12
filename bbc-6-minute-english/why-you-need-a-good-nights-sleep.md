@@ -6,11 +6,9 @@ description: >-
 
 # Why you need a good night's sleep
 
-{% file src="../../.gitbook/assets/worksheet-241031" %}
+{% file src="../.gitbook/assets/transcript-241031" %}
 
-{% file src="../../.gitbook/assets/transcript-241031" %}
-
-{% file src="../../.gitbook/assets/Why you need a good night's sleep ⏲ 6 Minute English.mp4" %}
+{% file src="../.gitbook/assets/Why you need a good night's sleep ⏲ 6 Minute English.mp4" %}
 
 <details>
 
@@ -241,6 +239,26 @@ cn:&#x20;
 
 </details>
 
+<details>
+
+<summary>Answers</summary>
+
+a) catching forty winks / getting some shut-eye / dozing / taking a nap
+
+– (idioms) sleeping
+
+b) take in – understand
+
+c) sleep on it – wait until you’ve had time to think carefully before making a decision
+
+d) deprivation - an absence or too little of something important eg. food, sleep
+
+e) fight-or-flight response - changes in the human body in response to a life-threatening situation which make us either stay and fight the threat, or run away from it
+
+f) knock-on effect - cause other results or events, but not directly
+
+</details>
+
 #### 4. Surprising or New Information 令人惊讶或新奇的信息
 
 <details>
@@ -316,35 +334,9 @@ cn:&#x20;
 
 <details>
 
-<summary>Answer</summary>
+<summary>Answers</summary>
 
-1. **What is an English idiom meaning ‘to sleep’?**
-   * b) catch 40 winks
-2. **Which word means ‘the absence or too little of something important’?**
-   * a) deprivation
-3. **What is a health benefit associated with getting enough sleep?**
-   * c) living longer
-4. **“That’s a very difficult decision to make – why don’t you \_\_\_\_\_\_\_\_?”**
-   * c) sleep on it
-5. **Which phrase describes ‘changes in the human body in response to a life-threatening situation’?**
-   * a) fight-or-flight
-6. **What means ‘to cause other results, but not directly’?**
-   * b) a knock-on effect
-
-cn:&#x20;
-
-1. **哪个英语习语意指“睡觉”？**
-   * **b) catch 40 winks（小睡一会儿）**
-2. **哪个词意为“缺乏重要的事物”？**
-   * **a) deprivation（剥夺）**
-3. **与充足睡眠有关的健康益处是什么？**
-   * **c) 活得更久**
-4. **“这个决定太难了——你不妨\_\_\_\_\_\_\_？”**
-   * **c) sleep on it（睡一觉再说）**
-5. **哪个短语描述了人类在面临威胁时的反应？**
-   * **a) fight-or-flight（战斗或逃跑反应）**
-6. **什么词意为“间接引发其他结果”？**
-   * **b) a knock-on effect（连锁反应）**
+1b, 2a, 3c, 4c, 5a, 6b
 
 </details>
 
