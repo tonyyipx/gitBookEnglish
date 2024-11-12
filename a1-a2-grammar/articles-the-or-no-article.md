@@ -179,7 +179,7 @@ Do this exercise to test your grammar again.\
 
 </details>
 
-{% file src="../.gitbook/assets/Screenshot 2024-11-12 at 21.33.33 (1).png" %}
+<figure><img src="../.gitbook/assets/Screenshot 2024-11-12 at 21.33.33.png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -214,4 +214,3 @@ Do this exercise to test your grammar again.\
 * **第 5 句** 错误在于未加 `the`，正确形式应为 **in the Bahamas**，因为 `the Bahamas` 是群岛国家，通常需要冠词。
 
 </details>
-
