@@ -174,7 +174,60 @@ How is divorce talked about in different countries? Georgie and Phil teach you s
 
 <summary>Look at the cover image and title of the episode. What do you think this episode is about? What do you know about this topic already? What vocabulary do you associate with this topic?</summary>
 
+The title "Divorce: Why Does It Happen?" suggests that the episode is focused on discussing the reasons behind why marriages end in divorce. It seems to be exploring the causes, factors, or circumstances that lead couples to decide to separate legally.
 
+#### What Do I Think This Episode Is About?
+
+I expect the episode to delve into:
+
+* Common reasons for divorce, such as infidelity, communication issues, or financial stress.
+* Possible psychological and social factors contributing to divorce.
+* The impact of divorce on families, especially children.
+* Trends in divorce rates and how they might differ across cultures or time periods.
+
+#### What Do I Know About This Topic?
+
+* Divorce is a legal process that ends a marriage.
+* It can be emotionally and financially challenging for everyone involved.
+* Some common reasons for divorce include incompatibility, infidelity, and poor communication.
+* Divorce rates have varied over time and are influenced by factors like societal norms, economic conditions, and cultural expectations.
+* Divorce laws differ across countries, affecting the ease or difficulty of the process.
+
+#### Vocabulary Associated With This Topic
+
+* **Separation**: The process of living apart from a spouse without a legal divorce.
+* **Irreconcilable differences**: Disputes or conflicts that cannot be resolved, often cited as a reason for divorce.
+* **Custody**: Legal rights over children following a divorce.
+* **Alimony**: Financial support paid to an ex-spouse after a divorce.
+* **Mediation**: A process in which a neutral third party helps resolve issues between divorcing spouses.
+* **Infidelity**: Cheating or having an affair, a common reason cited for divorce.
+* **Legal proceedings**: The formal steps involved in getting a divorce.
+
+cn:
+
+**标题：离婚：为什么会发生？**
+
+#### 你认为这一集的内容是什么？
+
+从标题来看，“离婚：为什么会发生？”这集似乎讨论的是婚姻破裂、夫妻决定离婚的原因。内容可能会分析导致离婚的各种因素、原因和情况。
+
+#### 关于这个主题，我已经知道的内容：
+
+* 离婚是指法律上解除婚姻关系。
+* 离婚通常会对双方造成情感和经济上的压力。
+* 常见的离婚原因包括：感情不和、出轨、沟通不良、财务问题等。
+* 离婚率随着时间和社会趋势变化，不同文化和国家的离婚率可能存在差异。
+* 各国的离婚法律不同，有的国家离婚程序比较容易，有的则非常复杂。
+
+#### 与这个主题相关的词汇：
+
+* **分居**：夫妻分开生活，但未正式离婚。
+* **感情破裂**：夫妻间的矛盾和分歧难以调和，常作为离婚原因之一。
+* **监护权**：离婚后对孩子的法律监护权。
+* **赡养费**：离婚后支付给前配偶的经济支持。
+* **调解**：由第三方帮助夫妻解决离婚争议的过程。
+* **出轨**：指婚姻中的一方有外遇，常被认为是离婚的主要原因。
+* **法律程序**：办理离婚所需的正式步骤和手续。
 
 </details>
 
